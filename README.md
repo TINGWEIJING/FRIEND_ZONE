@@ -7,3 +7,8 @@ Assignment
 
 ## Description
 A prototype of FRIEND ZONE app (CLI app)
+
+## Demo
+Client UI
+![Client UI](https://user-images.githubusercontent.com/55592054/87617376-f5498e80-c749-11ea-9a1f-1fb44d8329fd.png)
+---
