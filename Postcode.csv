@@ -1,0 +1,2332 @@
+State[0],Postcode[1],District[2],Latitude[3],Longitude[4]
+Perlis,01000,Kangar,6.444320,100.193318
+Perlis,02000,Kuala Perlis,6.397091,100.138336
+Perlis,02100,Padang Besar,6.662422,100.303597
+Perlis,02200,Kaki Bukit,6.636759,100.212493
+Perlis,02400,Kangar,6.444320,100.193318
+Perlis,02450,Kangar,6.444320,100.193318
+Perlis,02500,Kangar,6.444320,100.193318
+Perlis,02600,Arau,6.442711,100.286830
+Perlis,02700,Simpang Ampat,6.338739,100.156036
+Perlis,02800,Simpang Ampat,6.338739,100.156036
+Kedah,05000,Alor Setar,6.11694,100.368036
+Kedah,05050,Alor Setar,6.102877,100.352596
+Kedah,05100,Alor Setar,6.133673,100.380671
+Kedah,05150,Alor Setar,6.152454,100.355404
+Kedah,05200,Alor Setar,6.122,100.376459
+Kedah,05250,Alor Setar,6.154793,100.36944
+Kedah,05300,Alor Setar,6.110003,100.389095
+Kedah,05350,Alor Setar,6.16225,100.389095
+Kedah,05400,Alor Setar,6.063129,100.383479
+Kedah,05460,Alor Setar,6.151000,100.379572
+Kedah,06000,Jitra,6.259999,100.42585
+Kedah,06010,Changloon,6.416255,100.518362
+Kedah,06050,Bukit Kayu Hitam,6.491852,100.417181
+Kedah,06100,Kodiang,6.377948,100.338562
+Kedah,06150,Ayer Hitam,6.295403,100.27123
+Kedah,06200,Kepala Batas,6.214319,100.400328
+Kedah,06250,Alor Setar,6.132421,100.310501
+Kedah,06300,Kuala Nerang,6.278396,100.597136
+Kedah,06350,Pokok Sena,6.132421,100.310501
+Kedah,06400,Pokok Sena,6.151111,100.687246
+Kedah,06500,Langgar,6.140907,100.411563
+Kedah,06550,Alor Setar,6.183161,100.389095
+Kedah,06570,Alor Setar,6.210743,100.316113
+Kedah,06600,Kuala Kedah,6.090632,100.310501
+Kedah,06650,Simpang Empat,6.036935,100.389095
+Kedah,06660,Alor Setar,6.090632,100.310501
+Kedah,06700,Pendang,6.007287,100.574622
+Kedah,06710,Sik,6.001763,100.723878
+Kedah,06720,Pendang,5.926937,100.477754
+Kedah,06750,Pendang,5.992152,100.597244
+Kedah,06800,Kota Sarang Semut,5.938018,100.383479
+Kedah,06900,Yan,5.992152,100.597244
+Kedah,07000,Langkawi,6.357605,99.767869
+Kedah,08000,Sungai Petani, 5.636401,100.487788
+Kedah,08010,Sungai Petani,5.636401,100.487788
+Kedah,08100,Bedong,5.708105,100.450896
+Kedah,08200,Sik,6.215204,100.355404
+Kedah,08210,Sik,5.837342,100.754885
+Kedah,08300,Gurun,5.779715,100.507114
+Kedah,08400,Merbok,5.688992,100.361018
+Kedah,08500,Kota Kuala Muda,5.617034,100.327337
+Kedah,08600,Sungai Petani,5.589044,100.445276
+Kedah,08700,Jeniang,5.792228,100.670344
+Kedah,08800,Gurun,5.857982,100.449717
+Kedah,09000,Kulim,5.402153,100.572832
+Kedah,09010,Kulim,5.488104,100.597138
+Kedah,09020,Kulim,5.488104,100.597136
+Kedah,09100,Baling,5.732289,100.822573
+Kedah,09200,Kupang,5.596642,100.879017
+Kedah,09300,Kuala Ketil,5.682807,100.698516
+Kedah,09310,Kuala Ketil,5.606442,100.768983
+Kedah,09400,Padang Serai,5.529434,100.597136
+Kedah,09600,Lunas,5.457723,100.563368
+Kedah,09700,Karangan,5.403945,100.687246
+Kedah,09800,Serdang,5.239982,100.64218
+Penang,10000,Pulau Pinang,5.408941,100.325934
+Penang,10100,Pulau Pinang,5.41464,100.332248
+Penang,10200,Pulau Pinang,5.43573,100.344176
+Penang,10300,Pulau Pinang,5.415118,100.339284
+Penang,10400,Pulau Pinang,5.419313,100.323128
+Penang,11000,Balik Pulau,5.372487,100.219675
+Penang,11010,Balik Pulau,5.345315,100.198343
+Penang,11020,Balik Pulau,5.344565,100.243189
+Penang,11050,Pulau Pinang,5.47349,100.276659
+Penang,11060,Pulau Pinang,5.371709,100.27754
+Penang,11100,Batu Feringghi,5.467936,100.248352
+Penang,11200,Tanjong Bungah,5.467936,100.248352
+Penang,11400,Pulau Pinang,5.406887,100.295071
+Penang,11500,Ayer Itam,5.395585,100.276839
+Penang,11600,Jelutong,5.395585,100.276839
+Penang,11700,Gelugor,5.364249,100.299279
+Penang,11900,Bayan Lepas,5.313073,100.276839
+Penang,11910,Bayan Lepas,5.257984,100.181532
+Penang,11920,Bayan Lepas,5.257984,100.181532
+Penang,11950,Bayan Lepas,5.290493,100.240386
+Penang,11960,Batu Maung,5.282161,100.276839
+Penang,12000,Butterworth,5.401914,100.368484
+Penang,12100,Butterworth,5.397063,100.372383
+Penang,12200,Butterworth,5.410752,100.370844
+Penang,12300,Butterworth,5.427357,100.380671
+Penang,13000,Butterworth,5.44322,100.379138
+Penang,13020,Butterworth,5.44322,100.379138
+Penang,13050,Butterworth,5.46594,100.389095
+Penang,13100,Penaga,5.506885,100.411563
+Penang,13110,Penaga,5.519138,100.462557
+Penang,13200,Kepala Batas,5.510457,100.424895
+Penang,13220,Kepala Batas,5.475488,100.434037
+Penang,13300,Tasek Gelugor,5.494767,100.512738
+Penang,13310,Tasek Gelugor,5.474699,100.479001
+Penang,13400,Butterworth,5.424437,100.400328
+Penang,13500,Permatang Pauh,5.411196,100.41999
+Penang,13600,Perai,5.36481,100.396843
+Penang,13700,Perai,5.389663,100.4183
+Penang,13800,Butterworth,5.45522,100.411563
+Penang,14000,Bukit Mertajam,5.334135,100.470143
+Penang,14020,Bukit Mertajam,5.335297,100.499664
+Penang,14100,Simpang Ampat,5.274097,100.450896
+Penang,14110,Simpang Ampat,5.237795,100.467758
+Penang,14120,Simpang Ampat,5.278387,100.501491
+Penang,14200,Sungai Jawi,5.221435,100.494556
+Penang,14300,Nibong Tebal,5.181597,100.486015
+Penang,14310,Nibong Tebal,5.166389,100.434037
+Penang,14320,Nibong Tebal,5.151809,100.383479
+Penang,14400,Kubang Semang,5.151809,100.383479
+Kelantan,15000,Kota Bharu,6.1253,102.2461
+Kelantan,15050,Kota Bharu,6.1212,102.2459
+Kelantan,15100,Kota Bharu,6.0706,102.2458
+Kelantan,15150,Kota Bharu,6.1187,102.2508
+Kelantan,15159,Kota Bharu,6.122,102.2523
+Kelantan,15200,Kota Bharu,6.105,102.251
+Kelantan,15300,Kota Bharu,6.1159,102.2452
+Kelantan,15350,Kota Bharu,6.1118,102.249
+Kelantan,15400,Kota Bharu,6.1185,102.2489
+Kelantan,15500,Kota Bharu,6.122,102.2523
+Kelantan,15502,Kota Bharu,6.122,102.2523
+Kelantan,15503,Kota Bharu,6.122,102.2523
+Kelantan,15504,Kota Bharu,6.122,102.2523
+Kelantan,15505,Kota Bharu,6.122,102.2523
+Kelantan,15506,Kota Bharu,6.122,102.2523
+Kelantan,15508,Kota Bharu,6.122,102.2523
+Kelantan,15512,Kota Bharu,6.122,102.2523
+Kelantan,15514,Kota Bharu,6.122,102.2523
+Kelantan,15516,Kota Bharu,6.122,102.2523
+Kelantan,15517,Kota Bharu,6.122,102.2523
+Kelantan,15518,Kota Bharu,6.122,102.2523
+Kelantan,15519,Kota Bharu,5.8081,102.1509
+Kelantan,15520,Kota Bharu,6.122,102.2523
+Kelantan,15524,Kota Bharu,6.122,102.2523
+Kelantan,15529,Kota Bharu,6.122,102.2523
+Kelantan,15532,Kota Bharu,6.122,102.2523
+Kelantan,15534,Kota Bharu,6.122,102.2523
+Kelantan,15536,Kota Bharu,6.122,102.2523
+Kelantan,15538,Kota Bharu,6.122,102.2523
+Kelantan,15540,Kota Bharu,6.122,102.2523
+Kelantan,15546,Kota Bharu,6.122,102.2523
+Kelantan,15548,Kota Bharu,6.122,102.2523
+Kelantan,15550,Kota Bharu,6.122,102.2523
+Kelantan,15551,Kota Bharu,5.8092,102.1515
+Kelantan,15556,Kota Bharu,6.122,102.2523
+Kelantan,15558,Kota Bharu,6.122,102.2523
+Kelantan,15560,Kota Bharu,6.122,102.2523
+Kelantan,15564,Kota Bharu,6.1093,102.2382
+Kelantan,15570,Kota Bharu,6.122,102.2523
+Kelantan,15572,Kota Bharu,6.122,102.2523
+Kelantan,15576,Kota Bharu,6.122,102.2523
+Kelantan,15578,Kota Bharu,6.122,102.2523
+Kelantan,15582,Kota Bharu,6.122,102.2523
+Kelantan,15586,Kota Bharu,6.1237,102.2468
+Kelantan,15590,Kota Bharu,6.122,102.2523
+Kelantan,15592,Kota Bharu,6.122,102.2523
+Kelantan,15594,Kota Bharu,6.122,102.2523
+Kelantan,15596,Kota Bharu,6.122,102.2523
+Kelantan,15600,Kota Bharu,6.1303,102.2369
+Kelantan,15604,Kota Bharu,6.122,102.2523
+Kelantan,15608,Kota Bharu,5.9453,102.2339
+Kelantan,15609,Kota Bharu,6.122,102.2523
+Kelantan,15612,Kota Bharu,5.826,102.225
+Kelantan,15614,Kota Bharu,6.122,102.2523
+Kelantan,15616,Kota Bharu,6.1152,102.2414
+Kelantan,15622,Kota Bharu,6.122,102.2523
+Kelantan,15623,Kota Bharu,6.122,102.2523
+Kelantan,15626,Kota Bharu,6.122,102.2523
+Kelantan,15628,Kota Bharu,6.119,102.3573
+Kelantan,15630,Kota Bharu,6.1996,102.1696
+Kelantan,15632,Kota Bharu,6.1012,102.2653
+Kelantan,15634,Kota Bharu,6.122,102.2523
+Kelantan,15644,Kota Bharu,6.122,102.2523
+Kelantan,15646,Kota Bharu,6.122,102.2523
+Kelantan,15648,Kota Bharu,6.122,102.2523
+Kelantan,15658,Kota Bharu,6.122,102.2523
+Kelantan,15660,Kota Bharu,6.122,102.2523
+Kelantan,15661,Kota Bharu,6.122,102.2523
+Kelantan,15664,Kota Bharu,6.122,102.2523
+Kelantan,15670,Kota Bharu,6.122,102.2523
+Kelantan,15672,Kota Bharu,6.122,102.2523
+Kelantan,15673,Kota Bharu,6.1292,102.2387
+Kelantan,15674,Kota Bharu,6.122,102.2523
+Kelantan,15676,Kota Bharu,6.122,102.2523
+Kelantan,15680,Kota Bharu,6.122,102.2523
+Kelantan,15690,Kota Bharu,6.122,102.2523
+Kelantan,15710,Kota Bharu,6.122,102.2523
+Kelantan,15720,Kota Bharu,6.122,102.2492
+Kelantan,15730,Kota Bharu,6.122,102.2523
+Kelantan,15740,Kota Bharu,6.122,102.2523
+Kelantan,15988,Kota Bharu,6.122,102.2523
+Kelantan,15990,Kota Bharu,6.122,102.2523
+Kelantan,16010,Kota Bharu,6.0064,102.218
+Kelantan,16020,Bachok,6.0558,102.3487
+Kelantan,16030,Bachok,6.0547,102.3868
+Kelantan,16040,Wakaf Bharu,6.0573,102.1743
+Kelantan,16050,Bachok,6.032,102.3251
+Kelantan,16060,Bachok,6.0547,102.3868
+Kelantan,16070,Bachok,6.0334,102.3499
+Kelantan,16080,Tumpat,6.1411,102.1763
+Kelantan,16090,Bachok,6.0338,102.3572
+Kelantan,16100,Kota Bahru,6.122,102.2523
+Kelantan,16109,Kota Bharu,6.122,102.2523
+Kelantan,16150,Kota Bharu,6.0602,102.2341
+Kelantan,16200,Tumpat,6.1174,102.1685
+Kelantan,16210,Tumpat,6.1183,102.1386
+Kelantan,16250,Wakaf Bharu,6.0864,102.2099
+Kelantan,16300,Bachok,6.0269,102.3366
+Kelantan,16310,Bachok,5.9932,102.3636
+Kelantan,16320,Bachok,6.0547,102.3868
+Kelantan,16400,Melor,5.92,102.2742
+Kelantan,16450,Ketereh,5.9179,102.2274
+Kelantan,16500,Kem Desa Pahlawan,5.8938,102.2273
+Kelantan,16600,Pulai Chondong,5.8908,102.2376
+Kelantan,16700,Cherang Ruku,5.8722,102.4363
+Kelantan,16800,Pasir  Puteh,5.876,102.3841
+Kelantan,16810,Selising,5.8899,102.2958
+Kelantan,17000,Pasir Mas,6.0129,102.1459
+Kelantan,17007,Pasir Mas,6.0427,102.1391
+Kelantan,17009,Pasir Mas,6.0427,102.1391
+Kelantan,17010,Pasir Mas,6.0377,102.1486
+Kelantan,17020,Pasir Mas,6.0403,102.1465
+Kelantan,17030,Pasir Mas,5.8931,102.1712
+Kelantan,17040,Pasir Mas,6.0284,102.1551
+Kelantan,17050,Pasir Mas,5.961,102.1484
+Kelantan,17060,Pasir Mas,6.0061,102.1743
+Kelantan,17070,Pasir Mas,6.0102,102.1486
+Kelantan,17200,Rantau Panjang,5.9632,102.0073
+Kelantan,17500,Tanah Merah,5.7687,102.1201
+Kelantan,17507,Tanah Merah,5.8074,102.151
+Kelantan,17509,Tanah Merah,5.8074,102.151
+Kelantan,17510,Tanah Merah,5.7657,102.1153
+Kelantan,17600,Jeli,5.728,101.9225
+Kelantan,17610,Kuala Balah,5.4526,101.9212
+Kelantan,17700,Ayer Lanas,5.8142,101.9253
+Kelantan,18000,Kuala Krai,5.5693,102.1786
+Kelantan,18050,Kuala Krai,5.5339,102.1996
+Kelantan,18200,Dabong,5.4938,102.0523
+Kelantan,18300,Gua Musang,5.0356,102.0247
+Kelantan,18400,Temangan,5.7612,102.1769
+Kelantan,18500,Machang,5.7573,102.2168
+Terengganu,20000,Kuala Terengganu,5.2847,103.1475
+Terengganu,20050,Kuala Terengganu,5.2886,103.104
+Terengganu,20100,Kuala Terengganu,5.3134,103.1178
+Terengganu,20200,Kuala Terengganu,5.3165,103.1246
+Terengganu,20300,Kuala Terengganu,5.2937,103.1409
+Terengganu,20400,Kuala Terengganu,5.2184,103.1682
+Terengganu,20500,Kuala Terengganu,5.3046,103.1607
+Terengganu,20502,Kuala Terengganu,5.3117,103.1199
+Terengganu,20503,Kuala Terengganu,5.3117,103.1199
+Terengganu,20504,Kuala Terengganu,5.3117,103.1199
+Terengganu,20505,Kuala Terengganu,5.3117,103.1199
+Terengganu,20506,Kuala Terengganu,5.3117,103.1199
+Terengganu,20508,Kuala Terengganu,5.3117,103.1199
+Terengganu,20512,Kuala Terengganu,5.3117,103.1199
+Terengganu,20514,Kuala Terengganu,5.3117,103.1199
+Terengganu,20516,Kuala Terengganu,5.3117,103.1199
+Terengganu,20517,Kuala Terengganu,5.3117,103.1199
+Terengganu,20518,Kuala Terengganu,5.3117,103.1199
+Terengganu,20519,Kuala Terengganu,5.3117,103.1199
+Terengganu,20520,Kuala Terengganu,5.3117,103.1199
+Terengganu,20532,Kuala Terengganu,5.3117,103.1199
+Terengganu,20534,Kuala Terengganu,5.3117,103.1199
+Terengganu,20536,Kuala Terengganu,5.3117,103.1199
+Terengganu,20538,Kuala Terengganu,5.3117,103.1199
+Terengganu,20540,Kuala Terengganu,5.3117,103.1199
+Terengganu,20542,Kuala Terengganu,5.3117,103.1199
+Terengganu,20546,Kuala Terengganu,5.3117,103.1199
+Terengganu,20548,Kuala Terengganu,5.3117,103.1199
+Terengganu,20550,Kuala Terengganu,4.505,103.4432
+Terengganu,20551,Kuala Terengganu,5.3117,103.1199
+Terengganu,20552,Kuala Terengganu,5.3117,103.1199
+Terengganu,20554,Kuala Terengganu,5.3117,103.1199
+Terengganu,20556,Kuala Terengganu,5.3117,103.1199
+Terengganu,20560,Kuala Terengganu,5.3117,103.1199
+Terengganu,20564,Kuala Terengganu,5.3117,103.1199
+Terengganu,20566,Kuala Terengganu,5.3117,103.1199
+Terengganu,20568,Kuala Terengganu,5.3117,103.1199
+Terengganu,20570,Kuala Terengganu,5.3117,103.1199
+Terengganu,20572,Kuala Terengganu,5.3117,103.1199
+Terengganu,20576,Kuala Terengganu,5.3117,103.1199
+Terengganu,20578,Kuala Terengganu,5.3117,103.1199
+Terengganu,20582,Kuala Terengganu,5.0737,103.0221
+Terengganu,20586,Kuala Terengganu,5.3249,103.151
+Terengganu,20590,Kuala Terengganu,5.3117,103.1199
+Terengganu,20592,Kuala Terengganu,5.3117,103.1199
+Terengganu,20596,Kuala Terengganu,5.3117,103.1199
+Terengganu,20600,Kuala Terengganu,5.3117,103.1199
+Terengganu,20604,Kuala Terengganu,5.3117,103.1199
+Terengganu,20606,Kuala Terengganu,5.3117,103.1199
+Terengganu,20608,Kuala Terengganu,4.2356,103.419
+Terengganu,20609,Kuala Terengganu,5.3117,103.1199
+Terengganu,20610,Kuala Terengganu,5.3117,103.1199
+Terengganu,20612,Kuala Terengganu,5.3117,103.1199
+Terengganu,20614,Kuala Terengganu,5.3117,103.1199
+Terengganu,20618,Kuala Terengganu,5.3117,103.1199
+Terengganu,20620,Kuala Terengganu,5.3147,103.133
+Terengganu,20622,Kuala Terengganu,5.3117,103.1199
+Terengganu,20626,Kuala Terengganu,5.3117,103.1199
+Terengganu,20628,Kuala Terengganu,5.3117,103.1199
+Terengganu,20630,Kuala Terengganu,5.3175,103.1312
+Terengganu,20632,Kuala Terengganu,4.5782,103.2743
+Terengganu,20646,Kuala Terengganu,5.3117,103.1199
+Terengganu,20648,Kuala Terengganu,5.3117,103.1199
+Terengganu,20656,Kuala Terengganu,5.3117,103.1199
+Terengganu,20658,Kuala Terengganu,5.3117,103.1199
+Terengganu,20660,Kuala Terengganu,5.3117,103.1199
+Terengganu,20661,Kuala Terengganu,5.3117,103.1199
+Terengganu,20662,Kuala Terengganu,5.3145,103.1267
+Terengganu,20664,Kuala Terengganu,5.3117,103.1199
+Terengganu,20668,Kuala Terengganu,5.3117,103.1199
+Terengganu,20670,Kuala Terengganu,5.3117,103.1199
+Terengganu,20672,Kuala Terengganu,5.3117,103.1199
+Terengganu,20673,Kuala Terengganu,5.3117,103.1199
+Terengganu,20674,Kuala Terengganu,5.3117,103.1199
+Terengganu,20676,Kuala Terengganu,5.3117,103.1199
+Terengganu,20680,Kuala Terengganu,5.3304,103.1412
+Terengganu,20690,Kuala Terengganu,5.3117,103.1199
+Terengganu,20698,Kuala Terengganu,5.3117,103.1199
+Terengganu,20700,Kuala Terengganu,5.3117,103.1199
+Terengganu,20710,Kuala Terengganu,5.3117,103.1199
+Terengganu,20720,Kuala Terengganu,5.3117,103.1199
+Terengganu,20900,Kuala Terengganu,5.3117,103.1199
+Terengganu,20902,Kuala Terengganu,5.3117,103.1199
+Terengganu,20904,Kuala Terengganu,5.3117,103.1199
+Terengganu,20906,Kuala Terengganu,5.3117,103.1199
+Terengganu,20908,Kuala Terengganu,5.3117,103.1199
+Terengganu,20910,Kuala Terengganu,5.3117,103.1199
+Terengganu,20912,Kuala Terengganu,5.3117,103.1199
+Terengganu,20914,Kuala Terengganu,5.3117,103.1199
+Terengganu,20916,Kuala Terengganu,5.3117,103.1199
+Terengganu,20918,Kuala Terengganu,5.3117,103.1199
+Terengganu,20920,Kuala Terengganu,5.3117,103.1199
+Terengganu,20922,Kuala Terengganu,5.3117,103.1199
+Terengganu,20924,Kuala Terengganu,5.3117,103.1199
+Terengganu,20926,Kuala Terengganu,5.3117,103.1199
+Terengganu,20928,Kuala Terengganu,5.3117,103.1199
+Terengganu,20930,Kuala Terengganu,5.3117,103.1199
+Terengganu,20990,Kuala Terengganu,5.3117,103.1199
+Terengganu,21000,Kuala Terengganu,5.3018,103.1259
+Terengganu,21009,Kuala Terengganu,5.3117,103.1199
+Terengganu,21010,Kuala Terengganu,5.2638,103.0938
+Terengganu,21020,Kuala Terengganu,5.3205,103.0596
+Terengganu,21030,Kuala Terengganu,5.3451,103.1047
+Terengganu,21040,Kuala Terengganu,5.2624,103.0792
+Terengganu,21060,Kuala Terengganu,5.3185,103.0739
+Terengganu,21070,Kuala Terengganu,5.271,103.1235
+Terengganu,21080,Kuala Terengganu,5.3405,103.0754
+Terengganu,21090,Kuala Terengganu,5.775,103.015
+Terengganu,21100,Kuala Terengganu,5.3199,103.1074
+Terengganu,21109,Kuala Terengganu,5.3117,103.1199
+Terengganu,21200,Kuala Terengganu,5.2967,103.0847
+Terengganu,21209,Kuala Terengganu,5.3117,103.1199
+Terengganu,21210,Kuala Terengganu,5.269,103.0614
+Terengganu,21220,Kuala Terengganu,5.2188,103.0314
+Terengganu,21300,Kuala Terengganu,5.3436,103.0796
+Terengganu,21309,Kuala Terengganu,5.3117,103.1199
+Terengganu,21400,Bukit Payong,5.2321,103.1041
+Terengganu,21450,Chalok,5.3867,102.8676
+Terengganu,21500,Sungai Tong,5.2448,102.8795
+Terengganu,21600,Marang,5.2424,103.126
+Terengganu,21610,Marang,5.0599,103.2796
+Terengganu,21700,Kuala Berang,5.1048,102.9733
+Terengganu,21800,Ajil,5.0619,103.0496
+Terengganu,21810,Ajil,5.0178,103.1339
+Terengganu,21820,Ajil,5.0464,103.0901
+Terengganu,22000,Jerteh,5.6111,102.5729
+Terengganu,22010,Jerteh,5.6209,102.5933
+Terengganu,22020,Jerteh,5.6795,102.5851
+Terengganu,22100,Permaisuri,5.4698,102.8602
+Terengganu,22107,Permaisuri,5.5837,102.7858
+Terengganu,22109,Permaisuri,5.5837,102.7858
+Terengganu,22110,Permaisuri,5.5436,102.818
+Terengganu,22120,Permaisuri,5.4395,102.8866
+Terengganu,22200,Kampung Raja,5.7332,102.613
+Terengganu,22300,Kuala Besut,5.7998,102.5579
+Terengganu,22307,Kuala Besut,5.8201,102.5377
+Terengganu,22309,Kuala Besut,5.8201,102.5377
+Terengganu,23000,Dungun,4.8168,103.3036
+Terengganu,23007,Dungun,4.7565,103.3997
+Terengganu,23009,Dungun,4.7565,103.3997
+Terengganu,23050,Dungun,4.7789,103.3726
+Terengganu,23100,Paka,4.7314,103.358
+Terengganu,23200,Bukit Besi,5.0395,102.7909
+Terengganu,23300,Ketengah Jaya,4.4348,103.3763
+Terengganu,23400,Al Muktatfi Billah Shah,4.6199,103.2089
+Terengganu,24000,Cukai,4.3305,103.352
+Terengganu,24007,Cukai,4.2327,103.4152
+Terengganu,24009,Cukai,4.2327,103.4152
+Terengganu,24050,Ceneh,4.1373,103.2476
+Terengganu,24060,Ceneh,4.1149,103.2909
+Terengganu,24100,Kijal,4.436,103.4175
+Terengganu,24107,Kijal,4.3364,103.4683
+Terengganu,24109,Kijal,4.3364,103.4683
+Terengganu,24200,Kemasek,4.62,103.353
+Terengganu,24207,Kemasek,4.4216,103.438
+Terengganu,24209,Kemasek,4.4216,103.438
+Terengganu,24300,Kerteh,4.6985,103.3568
+Pahang,25000,Kuantan,3.8099,103.2893
+Pahang,25050,Kuantan,3.8109,103.2884
+Pahang,25100,Kuantan,3.7784,103.1744
+Pahang,25150,Kuantan,3.7686,103.2328
+Pahang,25200,Kuantan,3.7696,103.2224
+Pahang,25250,Kuantan,3.751,103.1276
+Pahang,25300,Kuantan,3.8091,103.2363
+Pahang,25350,Kuantan,3.7745,103.2176
+Pahang,25500,Kuantan,3.825,103.3239
+Pahang,25502,Kuantan,3.825,103.3239
+Pahang,25503,Kuantan,3.825,103.3239
+Pahang,25504,Kuantan,3.825,103.3239
+Pahang,25505,Kuantan,3.825,103.3239
+Pahang,25506,Kuantan,3.825,103.3239
+Pahang,25508,Kuantan,3.825,103.3239
+Pahang,25509,Kuantan,3.825,103.3239
+Pahang,25512,Kuantan,3.825,103.3239
+Pahang,25514,Kuantan,3.825,103.3239
+Pahang,25516,Kuantan,3.825,103.3239
+Pahang,25517,Kuantan,3.825,103.3239
+Pahang,25518,Kuantan,3.825,103.3239
+Pahang,25520,Kuantan,3.825,103.3239
+Pahang,25524,Kuantan,3.825,103.3239
+Pahang,25529,Kuantan,3.825,103.3239
+Pahang,25532,Kuantan,3.825,103.3239
+Pahang,25534,Kuantan,3.825,103.3239
+Pahang,25536,Kuantan,3.825,103.3239
+Pahang,25538,Kuantan,3.825,103.3239
+Pahang,25540,Kuantan,3.825,103.3239
+Pahang,25546,Kuantan,3.825,103.3239
+Pahang,25548,Kuantan,3.4931,103.3912
+Pahang,25550,Kuantan,3.825,103.3239
+Pahang,25551,Kuantan,3.825,103.3239
+Pahang,25552,Kuantan,3.825,103.3239
+Pahang,25556,Kuantan,3.825,103.3239
+Pahang,25558,Kuantan,3.825,103.3239
+Pahang,25560,Kuantan,3.825,103.3239
+Pahang,25564,Kuantan,3.4924,103.3896
+Pahang,25570,Kuantan,3.825,103.3239
+Pahang,25576,Kuantan,3.825,103.3239
+Pahang,25578,Kuantan,3.825,103.3239
+Pahang,25582,Kuantan,3.4923,103.3896
+Pahang,25584,Kuantan,3.825,103.3239
+Pahang,25586,Kuantan,3.825,103.3239
+Pahang,25590,Kuantan,3.8188,103.3257
+Pahang,25592,Kuantan,3.825,103.3239
+Pahang,25594,Kuantan,3.825,103.3239
+Pahang,25596,Kuantan,3.825,103.3239
+Pahang,25598,Kuantan,3.825,103.3239
+Pahang,25600,Kuantan,3.825,103.3239
+Pahang,25604,Kuantan,3.825,103.3239
+Pahang,25606,Kuantan,3.825,103.3239
+Pahang,25608,Kuantan,3.8023,101.8558
+Pahang,25609,Kuantan,3.825,103.3239
+Pahang,25610,Kuantan,3.825,103.3239
+Pahang,25612,Kuantan,3.825,103.3239
+Pahang,25614,Kuantan,3.79,103.3161
+Pahang,25620,Kuantan,3.8223,103.3565
+Pahang,25622,Kuantan,3.825,103.3239
+Pahang,25626,Kuantan,3.825,103.3239
+Pahang,25628,Kuantan,3.825,103.3239
+Pahang,25630,Kuantan,3.825,103.3239
+Pahang,25632,Kuantan,3.825,103.3239
+Pahang,25644,Kuantan,3.7984,103.3225
+Pahang,25646,Kuantan,3.825,103.3239
+Pahang,25648,Kuantan,3.825,103.3239
+Pahang,25656,Kuantan,3.825,103.3239
+Pahang,25660,Kuantan,3.825,103.3239
+Pahang,25661,Kuantan,3.825,103.3239
+Pahang,25662,Kuantan,3.8243,103.3328
+Pahang,25670,Kuantan,3.825,103.3239
+Pahang,25672,Kuantan,3.825,103.3239
+Pahang,25673,Kuantan,3.825,103.3239
+Pahang,25674,Kuantan,3.8029,103.3237
+Pahang,25676,Kuantan,3.8087,103.3267
+Pahang,25690,Kuantan,3.825,103.3239
+Pahang,25700,Kuantan,3.825,103.3239
+Pahang,25710,Kuantan,3.825,103.3239
+Pahang,25720,Kuantan,3.825,103.3239
+Pahang,25730,Kuantan,3.825,103.3239
+Pahang,25740,Kuantan,3.825,103.3239
+Pahang,25750,Kuantan,3.825,103.3239
+Pahang,25990,Kuantan,3.7,103.0226
+Pahang,26010,Kuantan,3.8198,103.2423
+Pahang,26040,Kuantan,3.8459,103.1769
+Pahang,26050,Bukit Goh,3.7793,102.9106
+Pahang,26060,Kuantan,3.7363,103.2605
+Pahang,26070,Kuantan,3.7579,103.1751
+Pahang,26080,Kuantan,3.6981,103.0195
+Pahang,26090,Bukit Goh,3.822,103.0217
+Pahang,26100,Balok,3.912,103.3298
+Pahang,26140,Kuantan,3.957,103.226
+Pahang,26150,Balok,3.9317,103.3769
+Pahang,26170,Kuantan,3.9349,103.3703
+Pahang,26180,Kuantan,3.8593,103.275
+Pahang,26190,Balok,4.0288,103.3853
+Pahang,26200,Sungai Lembing,3.8104,102.9129
+Pahang,26250,Jaya Gading,3.8173,103.1733
+Pahang,26300,Gambang,3.7444,103.1378
+Pahang,26310,Gambang,3.7071,103.0815
+Pahang,26320,Gambang,3.6745,103.04
+Pahang,26330,Gambang,3.6768,103.0472
+Pahang,26340,Gambang,2.638,103.6324
+Pahang,26350,Gambang,3.665,103.1005
+Pahang,26360,Gambang,3.6518,103.0645
+Pahang,26370,Gambang,3.7137,103.0738
+Pahang,26400,Bandar Pusat Jengka,3.6739,102.5212
+Pahang,26410,Bandar Pusat  Jengka,3.7416,102.5443
+Pahang,26420,Bandar Pusat  Jengka,3.699,102.5528
+Pahang,26430,Bandar Pusat Jengka,3.7416,102.5443
+Pahang,26440,Bandar Pusat  Jengka,3.6808,102.6015
+Pahang,26450,Bandar Pusat  Jengka,3.7028,102.5393
+Pahang,26460,Bandar Pusat  Jengka,3.7263,102.5438
+Pahang,26485,Bandar Pusat  Jengka,3.7416,102.5443
+Pahang,26490,Bandar Pusat  Jengka,3.7416,102.5443
+Pahang,26500,Bandar Pusat Jengka,3.7416,102.5443
+Pahang,26600,Pekan,3.5374,103.2801
+Pahang,26607,Pekan,3.5007,103.3901
+Pahang,26609,Pekan,3.5007,103.3901
+Pahang,26610,Pekan,3.5732,103.2581
+Pahang,26620,Pekan,3.5087,103.0262
+Pahang,26630,Pekan,3.5333,103.2986
+Pahang,26640,Pekan,3.5401,103.2532
+Pahang,26650,Pekan,3.4794,103.129
+Pahang,26660,Pekan,3.5065,103.179
+Pahang,26680,Pekan,3.2987,103.3341
+Pahang,26690,Chini,3.2106,103.0223
+Pahang,26700,Muadzam Shah,3.2041,102.8052
+Pahang,26800,Kuala Rompin,2.9496,103.4089
+Pahang,26810,Kuala Rompin,2.8956,103.3812
+Pahang,26820,Kuala Rompin,2.9468,103.3286
+Pahang,26900,Bandar Tun Abdul Razak,2.9499,102.6818
+Pahang,27000,Jerantut,3.868,102.4271
+Pahang,27010,Jerantut,3.9627,102.3446
+Pahang,27020,Jerantut,3.9436,102.4382
+Pahang,27030,Damak,3.8487,102.246
+Pahang,27040,Jerantut,3.9721,102.3729
+Pahang,27050,Jerantut,3.8629,102.35
+Pahang,27060,Jerantut,3.9293,102.4133
+Pahang,27070,Jerantut,3.884,102.5606
+Pahang,27090,Jerantut,3.8803,102.4837
+Pahang,27100,Padang Tengku,4.1907,102.0495
+Pahang,27150,Jerantut,3.992,102.3399
+Pahang,27200,Kuala Lipis,4.0629,102.1071
+Pahang,27207,Kuala Lipis,4.1872,102.0547
+Pahang,27209,Kuala Lipis,4.1872,102.0547
+Pahang,27210,Kuala Lipis,4.5119,101.9734
+Pahang,27300,Benta,3.9583,102.1692
+Pahang,27310,Benta,3.9168,102.0663
+Pahang,27400,Dong,3.8834,101.983
+Pahang,27600,Raub,3.7577,101.9827
+Pahang,27607,Raub,3.7926,101.8584
+Pahang,27609,Raub,3.7926,101.8584
+Pahang,27610,Raub,3.7875,102.1388
+Pahang,27620,Raub,3.7984,102.1182
+Pahang,27630,Raub,3.689,102.007
+Pahang,27650,Sungai Koyan,4.1582,101.84
+Pahang,27660,Sega,3.9817,101.9348
+Pahang,27670,Raub,3.7602,101.8365
+Pahang,28000,Temerloh,3.484,102.4266
+Pahang,28007,Temerloh,3.4532,102.4245
+Pahang,28009,Temerloh,3.4532,102.4245
+Pahang,28010,Temerloh,3.5162,102.4182
+Pahang,28020,Temerloh,3.4822,102.4812
+Pahang,28030,Temerloh,3.6371,102.5241
+Pahang,28040,Temerloh,3.4884,102.431
+Pahang,28050,Kuala Krau,3.6237,102.456
+Pahang,28100,Chenor,3.5018,102.6455
+Pahang,28200,Triang,3.4051,102.6233
+Pahang,28300,Triang,3.3177,102.4798
+Pahang,28310,Triang,3.2641,102.4548
+Pahang,28320,Triang,3.1929,102.2939
+Pahang,28330,Triang,3.2919,102.5316
+Pahang,28340,Kemayan,3.251,102.5593
+Pahang,28380,Kemayan,3.2452,102.4252
+Pahang,28400,Mentakab,3.5435,102.3122
+Pahang,28407,Mentakab,3.4862,102.3283
+Pahang,28409,Mentakab,3.4862,102.3283
+Pahang,28500,Lanchang,3.5547,102.265
+Pahang,28600,Karak,3.4339,102.1543
+Pahang,28610,Karak,3.4551,102.0424
+Pahang,28620,Karak,3.3706,102.0504
+Pahang,28700,Bentong,3.5281,101.9763
+Pahang,28707,Bentong,3.5249,101.9097
+Pahang,28709,Bentong,3.5249,101.9097
+Pahang,28730,Bentong,3.4095,102.0024
+Pahang,28740,Bentong,3.2308,102.1151
+Pahang,28750,Bentong,3.4481,101.9142
+Pahang,28800,Lurah Bilut,3.6623,101.9202
+Perak,30000,Ipoh,4.6502,101.0682
+Perak,30010,Ipoh,4.5754,101.1151
+Perak,30020,Ipoh,4.6307,101.0458
+Perak,30100,Ipoh,4.6124,101.076
+Perak,30200,Ipoh,4.5979,101.0884
+Perak,30250,Ipoh,4.5916,101.0967
+Perak,30300,Ipoh,4.6381,101.075
+Perak,30350,Ipoh,4.6105,101.1045
+Perak,30450,Ipoh,4.6162,101.086
+Perak,30500,Ipoh,4.6118,101.1135
+Perak,30502,Ipoh,4.6118,101.1135
+Perak,30503,Ipoh,4.6118,101.1135
+Perak,30504,Ipoh,4.6118,101.1135
+Perak,30505,Ipoh,4.6118,101.1135
+Perak,30506,Ipoh,4.5982,101.0753
+Perak,30508,Ipoh,4.6118,101.1135
+Perak,30510,Ipoh,4.6118,101.1135
+Perak,30512,Ipoh,4.6118,101.1135
+Perak,30516,Ipoh,4.6118,101.1135
+Perak,30517,Ipoh,4.6118,101.1135
+Perak,30518,Ipoh,4.6118,101.1135
+Perak,30519,Ipoh,4.6118,101.1135
+Perak,30520,Ipoh,4.6118,101.1135
+Perak,30524,Ipoh,4.6118,101.1135
+Perak,30532,Ipoh,4.6118,101.1135
+Perak,30534,Ipoh,4.6118,101.1135
+Perak,30536,Ipoh,4.6118,101.1135
+Perak,30540,Ipoh,4.6118,101.1135
+Perak,30542,Ipoh,4.6118,101.1135
+Perak,30546,Ipoh,4.6118,101.1135
+Perak,30548,Ipoh,4.6118,101.1135
+Perak,30550,Ipoh,4.6118,101.1135
+Perak,30551,Ipoh,4.6118,101.1135
+Perak,30552,Ipoh,4.6118,101.1135
+Perak,30554,Ipoh,4.6118,101.1135
+Perak,30556,Ipoh,4.6118,101.1135
+Perak,30560,Ipoh,4.6118,101.1135
+Perak,30564,Ipoh,4.6118,101.1135
+Perak,30570,Ipoh,4.6118,101.1135
+Perak,30576,Ipoh,4.6118,101.1135
+Perak,30580,Ipoh,4.5874,101.07
+Perak,30582,Ipoh,4.6043,101.0764
+Perak,30586,Ipoh,4.6118,101.1135
+Perak,30590,Ipoh,4.6118,101.1135
+Perak,30592,Ipoh,4.6118,101.1135
+Perak,30594,Ipoh,4.6118,101.1135
+Perak,30596,Ipoh,4.6118,101.1135
+Perak,30600,Ipoh,4.6038,101.1205
+Perak,30604,Ipoh,4.6118,101.1135
+Perak,30606,Ipoh,4.6118,101.1135
+Perak,30609,Ipoh,4.6118,101.1135
+Perak,30610,Ipoh,4.6118,101.1135
+Perak,30612,Ipoh,4.6118,101.1135
+Perak,30614,Ipoh,4.36,100.9726
+Perak,30620,Ipoh,4.618,101.115
+Perak,30621,Ipoh,4.6118,101.1135
+Perak,30622,Ipoh,4.6118,101.1135
+Perak,30626,Ipoh,4.6118,101.1135
+Perak,30628,Ipoh,4.6118,101.1135
+Perak,30630,Ipoh,4.606,101.1172
+Perak,30632,Ipoh,4.7703,100.9308
+Perak,30634,Ipoh,4.6118,101.1135
+Perak,30644,Ipoh,4.5987,101.0899
+Perak,30646,Ipoh,4.6118,101.1135
+Perak,30648,Ipoh,4.6118,101.1135
+Perak,30656,Ipoh,4.6118,101.1135
+Perak,30658,Ipoh,4.6118,101.1135
+Perak,30660,Ipoh,4.6055,101.0767
+Perak,30661,Ipoh,4.6118,101.1135
+Perak,30662,Ipoh,4.5957,101.1194
+Perak,30664,Ipoh,4.6118,101.1135
+Perak,30668,Ipoh,4.6118,101.1135
+Perak,30670,Ipoh,4.6118,101.1135
+Perak,30673,Ipoh,4.6118,101.1135
+Perak,30674,Ipoh,4.6118,101.1135
+Perak,30676,Ipoh,4.6118,101.1135
+Perak,30682,Ipoh,4.6118,101.1135
+Perak,30690,Ipoh,4.6118,101.1135
+Perak,30700,Ipoh,4.6118,101.1135
+Perak,30710,Ipoh,4.6118,101.1135
+Perak,30720,Ipoh,4.6118,101.1135
+Perak,30730,Ipoh,4.6118,101.1135
+Perak,30740,Ipoh,4.6118,101.1135
+Perak,30750,Ipoh,4.6118,101.1135
+Perak,30760,Ipoh,4.6118,101.1135
+Perak,30770,Ipoh,4.6118,101.1135
+Perak,30780,Ipoh,4.6118,101.1135
+Perak,30790,Ipoh,4.6118,101.1135
+Perak,30800,Ipoh,4.6118,101.1135
+Perak,30810,Ipoh,4.6118,101.1135
+Perak,30820,Ipoh,4.6118,101.1135
+Perak,30830,Ipoh,4.6118,101.1135
+Perak,30840,Ipoh,4.6118,101.1135
+Perak,30900,Ipoh,4.6118,101.1135
+Perak,30902,Ipoh,4.6118,101.1135
+Perak,30904,Ipoh,4.6118,101.1135
+Perak,30906,Ipoh,4.6118,101.1135
+Perak,30908,Ipoh,4.6118,101.1135
+Perak,30910,Ipoh,4.6118,101.1135
+Perak,30912,Ipoh,4.6118,101.1135
+Perak,30988,Ipoh,4.608,101.079
+Perak,30990,Ipoh,4.6118,101.1135
+Perak,31000,Batu Gajah,4.4422,101.0546
+Perak,31007,Batu Gajah,4.4693,101.0397
+Perak,31009,Batu Gajah,4.4693,101.0397
+Perak,31050,Sungai Siput,4.9134,101.0665
+Perak,31100,Sungai Siput,4.7421,101.0601
+Perak,31150,Ulu Kinta,4.6008,101.1007
+Perak,31200,Chemor,4.7281,101.12
+Perak,31250,Tanjong Rambutan,4.5601,101.1448
+Perak,31300,Kampung Kepayang,4.5595,101.0673
+Perak,31350,Ipoh,4.5723,101.1157
+Perak,31400,Ipoh,4.6114,101.1043
+Perak,31407,Ipoh,4.6118,101.1135
+Perak,31409,Ipoh,4.6118,101.1135
+Perak,31450,Ipoh,4.5904,101.0807
+Perak,31500,Ipoh,4.5773,101.0857
+Perak,31550,Pusing,4.5117,100.9917
+Perak,31560,Pusing,4.4892,100.9387
+Perak,31600,Gopeng,4.5193,101.1153
+Perak,31610,Gopeng,4.6123,101.0937
+Perak,31650,Ipoh,4.5756,101.0788
+Perak,31700,Malim Nawar,4.3844,101.1174
+Perak,31750,Tronoh,4.4306,101.014
+Perak,31800,Tanjong Tualang,4.3912,101.0461
+Perak,31850,Jeram,4.3641,101.1539
+Perak,31900,Kampar,4.3551,101.1252
+Perak,31907,Kampar,4.311,101.1519
+Perak,31909,Kampar,4.311,101.1519
+Perak,31910,Kampar,4.3633,101.0817
+Perak,31920,Mambang Di Awan,4.4423,101.1131
+Perak,31950,Mambang Di Awan,4.3333,101.0979
+Perak,32000,Sitiawan,4.3227,100.8021
+Perak,32040,Seri Manjung,4.602,100.7979
+Perak,32100,TLDM Lumut,4.8073,100.8
+Perak,32200,Lumut,4.317,100.7977
+Perak,32300,Pangkor,4.2597,100.6095
+Perak,32400,Ayer Tawar,4.3674,100.8604
+Perak,32500,Changkat Keruing,4.2702,100.8909
+Perak,32600,Bandar Seri Iskandar,4.3587,100.9673
+Perak,32610,Bandar Seri Iskandar,4.4301,101.012
+Perak,32700,Bruas,4.7499,100.837
+Perak,32800,Parit,4.5504,100.9064
+Perak,32900,Lambor Kanan,4.385,100.9163
+Perak,33000,Kuala Kangsar,4.7073,100.9381
+Perak,33007,Kuala Kangsar,4.7727,100.9403
+Perak,33009,Kuala Kangsar,4.7727,100.9403
+Perak,33010,Kuala Kangsar,4.7991,100.9087
+Perak,33020,Kuala Kangsar,4.8069,100.9321
+Perak,33030,Kuala Kangsar,4.8675,100.958
+Perak,33040,Kuala Kangsar,4.7272,100.9564
+Perak,33100,Pengkalan Hulu,5.4731,101.0105
+Perak,33200,Intan,5.4297,101.0342
+Perak,33300,Gerik,5.2806,101.1007
+Perak,33310,Gerik,5.3477,101.0651
+Perak,33320,Gerik,5.4506,101.1319
+Perak,33400,Lenggong,4.9846,100.973
+Perak,33410,Lenggong,5.1139,101.0489
+Perak,33420,Lenggong,5.1596,101.0009
+Perak,33500,Sauk,4.8496,100.9456
+Perak,33600,Enggor,4.8218,100.946
+Perak,33700,Padang Rengas,4.8174,100.8677
+Perak,33800,Manong,4.6523,100.8827
+Perak,34000,Taiping,4.7969,100.7934
+Perak,34007,Taiping,4.8541,100.7376
+Perak,34008,Taiping,4.8541,100.7376
+Perak,34009,Taiping,4.8541,100.7376
+Perak,34010,Taiping,4.7024,100.7738
+Perak,34020,Taiping,4.8719,100.7297
+Perak,34030,Taiping,4.7348,100.8402
+Perak,34100,Selama,4.829,100.8841
+Perak,34120,Selama,5.1677,100.6876
+Perak,34130,Selama,4.9877,100.756
+Perak,34140,Rantau Panjang,5.0506,100.813
+Perak,34200,Parit Buntar,4.907,100.6029
+Perak,34250,Tanjong Piandang,4.9011,100.5731
+Perak,34300,Bagan Serai,4.8687,100.6968
+Perak,34310,Bagan Serai,4.9058,100.7568
+Perak,34350,Kuala Kurau,4.9211,100.5186
+Perak,34400,Simpang Ampat Semanggol,4.9211,100.7084
+Perak,34500,Batu Kurau,4.9553,100.8398
+Perak,34510,Batu Kurau,5.1211,100.7783
+Perak,34520,Batu Kurau,4.9876,100.8302
+Perak,34600,Kamunting,4.8263,100.7717
+Perak,34650,Kuala Sepetang,4.9204,100.6607
+Perak,34700,Simpang,4.7183,100.7986
+Perak,34750,Matang,4.7804,100.7247
+Perak,34800,Trong,4.6539,100.7739
+Perak,34850,Changkat Jering,4.7067,100.832
+Perak,34900,Pantai Remis,4.5708,100.6901
+Kedah,34950,Bandar Baharu,5.118226,100.552114
+Perak,35000,Tapah,4.3279,101.1595
+Perak,35007,Tapah,4.204,101.261
+Perak,35009,Tapah,4.204,101.261
+Perak,35300,Chenderiang,4.3111,101.2339
+Perak,35350,Temoh,4.3504,101.1622
+Perak,35400,Tapah Road,4.2684,101.1236
+Perak,35500,Bidor,4.1787,101.2265
+Perak,35600,Sungkai,4.112,101.2529
+Perak,35700,Trolak,3.9577,101.3342
+Perak,35800,Slim River,4.0303,101.294
+Perak,35820,Slim River,3.814,101.4223
+Perak,35900,Tanjong Malim,3.9159,101.3812
+Perak,35907,Tanjong Malim,3.6913,101.5236
+Perak,35909,Tanjong Malim,3.6913,101.5236
+Perak,35910,Tanjong Malim,3.8618,101.4197
+Perak,35950,Behrang Stesen,3.889,101.4121
+Perak,36000,Teluk Intan,4.1739,101.0194
+Perak,36007,Teluk Intan,4.0124,101.018
+Perak,36008,Teluk Intan,4.0124,101.018
+Perak,36009,Teluk Intan,4.0124,101.018
+Perak,36010,Teluk Intan,4.4706,100.8573
+Perak,36020,Teluk Intan,4.1912,101.0374
+Perak,36030,Teluk Intan,4.1617,101.0354
+Perak,36100,Bagan Datoh,3.9793,100.7593
+Perak,36110,Teluk Intan,4.1077,100.9751
+Perak,36200,Selekoh,3.9955,100.768
+Perak,36207,Selekoh,3.9167,100.759
+Perak,36209,Selekoh,3.9167,100.759
+Perak,36300,Sungai Sumun,4.0448,100.8621
+Perak,36307,Sungai Sumun,3.9014,100.8616
+Perak,36309,Sungai Sumun,3.9014,100.8616
+Perak,36400,Hutan Melintang,4.0333,100.9471
+Perak,36500,Ulu Bernam,3.9111,101.2078
+Perak,36600,Chenderong Balai,4.2992,101.0101
+Perak,36700,Langkap,4.2015,101.0814
+Perak,36750,Chikus,4.3082,101.0173
+Perak,36800,Kampung Gajah,4.3923,100.9307
+Perak,36810,Kampung Gajah,4.4818,100.8377
+Pahang,39000,Tanah Rata,4.3972,101.4559
+Pahang,39007,Tanah Rata,4.4738,101.3786
+Pahang,39009,Tanah Rata,4.4738,101.3786
+Pahang,39010,Tanah Rata,4.1864,101.6687
+Pahang,39100,Brinchang,4.3557,101.6275
+Pahang,39200,Ringlet,4.2961,101.5451
+Selangor,40000,Shah Alam (Seksyen 2-8 & 14 [Pusat Bandaraya]),3.079779,101.507757
+Selangor,40100,Shah Alam (Seksyen 9-13),3.074311,101.53332
+Selangor,40160,"Shah Alam (Seksyen U16-U17 & U20, Bandar Baru Sungai Buloh, Paya Jaras)",3.143676,101.51344
+Selangor,40170,Shah Alam (Seksyen U10-U15),3.12386,101.470245
+Selangor,40200,Shah Alam (Seksyen 15-18),3.056429,101.51451
+Selangor,40300,Shah Alam (Seksyen 19-24),3.052406,101.539015
+Selangor,40400,Shah Alam (Seksyen 25-28 & 33),3.000422,101.561051
+Selangor,40450,Shah Alam (Seksyen 1 - UiTM),3.06444,101.505611
+Selangor,40460,Shah Alam (Seksyen 29-32),2.98649,101.539571
+Selangor,40470,Shah Alam (Seksyen 34-36),3.025482,101.493167
+Selangor,41000,Klang,3.011358,101.47367
+Selangor,41050,Klang (Bukit Raja),3.092567,101.443829
+Selangor,41100,Klang,3.037395,101.424791
+Selangor,41150,"Klang (Bandar Baru Klang, Berkeley)",3.053031,101.457478
+Selangor,41200,"Klang (Bandar Botanic, Bandar Baru Bukit Tinggi, Andalas, Johan Setia)",3.009941,101.436976
+Selangor,41250,Klang (Sungai Udang),3.03161,101.416882
+Selangor,41300,Klang,3.053144,101.470829
+Selangor,41400,Klang (Kawasan 18),3.073237,101.431076
+Selangor,42000,Pelabuhan Klang,2.96929,101.396006
+Selangor,42100,"Klang (Rantau Panjang, Sementa, Telok Kapas)",3.072127,101.409197
+Selangor,42200,Kapar,3.116479,101.367322
+Selangor,42300,Bandar Puncak Alam,3.223549,101.422559
+Selangor,42500,Telok Panglima Garang,2.895216,101.461356
+Selangor,42600,Jenjarom (Pekan Jenjarom),2.888357,101.51344
+Selangor,42610,Jenjarom (Bandar Saujana Putra),2.941596,101.575967
+Selangor,42700,Banting,2.831512,101.599162
+Selangor,42800,Tanjong Sepat,2.702327,101.547541
+Selangor,42920,Pulau Indah,2.991679,101.389507
+Selangor,42940,Pulau Ketam,3.024041,101.253104
+Selangor,42960,Pulau Carey,2.866263,101.413486
+Selangor,43000,Kajang,2.92211,101.732917
+Selangor,43100,Hulu Langat,3.169192,101.866362
+Selangor,43200,Cheras,3.052271,101.775171
+Selangor,43300,Seri Kembangan,3.023695,101.695444
+Selangor,43400,Serdang,2.992086,101.718099
+Selangor,43500,Semenyih,2.971922,101.827849
+Selangor,43600,Bangi,2.91984,101.780868
+Selangor,43650,Bandar Baru Bangi,2.94591,101.767987
+Selangor,43700,Beranang,2.904371,101.854959
+Selangor,43800,Dengkil,2.880898,101.664539
+Selangor,43900,Sepang,2.818133,101.684059
+Selangor,43950,Sungai Pelek,2.655359,101.675623
+Selangor,44000,Kuala Kubu Baru,3.626677,101.661293
+Selangor,44010,Kuala Kubu Baru,3.612451,101.425451
+Selangor,44020,Kuala Kubu Baru,3.649803,101.411205
+Selangor,44100,Kerling,3.608267,101.547541
+Selangor,44200,Rasa,3.487993,101.638533
+Selangor,44300,Batang Kali,3.408196,101.684059
+Selangor,45000,Kuala Selangor,3.362568,101.41792
+Selangor,45100,Sungai Ayer Tawar,3.362568,101.41792
+Selangor,45200,Sabak Bernam,3.362568,101.41792
+Selangor,45300,Sungai Besar,3.67207,100.98622
+Selangor,45400,Sekinchan,3.67207,100.98622
+Selangor,45500,Tanjong Karang,3.550655,101.3885
+Selangor,45600,Bestari Jaya (Pekan Bestari Jaya),3.335359,101.398006
+Selangor,45700,Bukit Rotan,3.303593,101.331761
+Selangor,45800,Jeram,3.214834,101.320416
+Selangor,46000,"Petaling Jaya (PJS1 - PJS4, Seksyen 1-3, Seksyen 5-7, Seksyen 9-10, Seksyen 18)",3.098565,101.652353
+Selangor,46050,"Petaling Jaya (Seksyen 4, Seksyen 8)",3.095403,101.640771
+Selangor,46100,"Petaling Jaya (Seksyen 14, Seksyen 51A)",3.100558,101.629999
+Selangor,46150,"Petaling Jaya (PJS5, PJS6, PJS8, PJS10)",3.078536,101.618089
+Selangor,46200,"Petaling Jaya (Seksyen 11-13, Seksyen 52)",3.109378,101.644468
+Selangor,46300,Petaling Jaya (Seksyen 19-22),3.109211,101.625732
+Selangor,46350,Petaling Jaya (Seksyen 16 - Phileo Damansara),3.123775,101.6428
+Selangor,46400,Petaling Jaya (Seksyen 17 & 17A),3.123871,101.634266
+Selangor,47000,Sungai Buloh,3.123871,101.634266
+Selangor,47100,Puchong,2.992528,101.615307
+Selangor,47200,Subang Airport,3.130959,101.550383
+Selangor,47300,"Petaling Jaya (SS1 - SS3, SS8 - SS10)",3.102551,101.615611
+Selangor,47400,Petaling Jaya (SS20 - SS23),3.132161,101.621162
+Selangor,47410,"Petaling Jaya (PJU3 - Damansara Indah, Tropicana)",3.132161,101.621162
+Selangor,47500,"Subang Jaya (Bandar Sunway - PJS7, PJS9, PJS11; SS12 - SS19)",3.073719,101.586178
+Selangor,47600,"Subang Jaya (Taman Pinggiran USJ, USJ1 - USJ4 & Pusat Perniagaan USJ10)",3.05763,101.575833
+Selangor,47610,Subang Jaya (USJ5 - USJ8),3.051849,101.590183
+Selangor,47620,Subang Jaya (USJ9 - USJ11),3.057174,101.577792
+Selangor,47630,Subang Jaya (USJ12 - USJ18),3.03369,101.58928
+Selangor,47800,Petaling Jaya (PJU6 - Bandar Utama & Kampung Sungai Kayu Ara),3.145087,101.607245
+Selangor,47810,"Petaling Jaya (PJU5 - Kota Damansara, PJU7 - Mutiara Damansara)",3.159423,101.614853
+Selangor,47820,Petaling Jaya (PJU8 - Damansara Perdana),3.169703,101.607245
+Selangor,47830,Petaling Jaya (PJU10 - Damansara Damai),3.17232,101.617261
+Selangor,48000,Rawang (Pusat Bandar Rawang),3.360522,101.536173
+Selangor,48010,Rawang (Sungai Buaya),3.385459,101.51912
+Selangor,48020,Rawang (Bandar Tasik Puteri),3.262244,101.490712
+Selangor,48050,Rawang (Kuang),3.261718,101.536173
+Selangor,48100,Batu Arang,3.321779,101.467989
+Selangor,48200,Serendah,3.388686,101.661293
+Selangor,48300,Rawang (Bukit Beruntung),3.388686,101.661293
+Pahang,49000,Bukit Fraser,3.7188,101.7403
+Kuala Lumpur,50000,Kuala Lumpur,3.1433,101.6955
+Kuala Lumpur,50050,Kuala Lumpur,3.1451,101.6945
+Kuala Lumpur,50088,Kuala Lumpur,3.1479,101.7008
+Kuala Lumpur,50100,Kuala Lumpur,3.1513,101.6947
+Kuala Lumpur,50150,Kuala Lumpur,3.1406,101.6955
+Kuala Lumpur,50200,Kuala Lumpur,3.1447,101.7007
+Kuala Lumpur,50250,Kuala Lumpur,3.1447,101.6951
+Kuala Lumpur,50300,Kuala Lumpur,3.1841,101.6911
+Kuala Lumpur,50350,Kuala Lumpur,3.1512,101.6956
+Kuala Lumpur,50400,Kuala Lumpur,3.149,101.697
+Kuala Lumpur,50450,Kuala Lumpur,3.1512,101.7091
+Kuala Lumpur,50460,Kuala Lumpur,3.1365,101.6941
+Kuala Lumpur,50470,Kuala Lumpur,3.134,101.6873
+Kuala Lumpur,50480,Kuala Lumpur,3.163,101.6753
+Kuala Lumpur,50490,Kuala Lumpur,3.1466,101.6673
+Kuala Lumpur,50500,Kuala Lumpur,3.1325,101.6957
+Kuala Lumpur,50502,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50504,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50505,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50506,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50507,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50508,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50512,Kuala Lumpur,3.1503,101.6924
+Kuala Lumpur,50514,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50515,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50519,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50528,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50529,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50530,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50532,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50534,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50536,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50540,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50544,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50546,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50548,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50550,Kuala Lumpur,3.1466,101.6636
+Kuala Lumpur,50551,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50552,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50554,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50556,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50560,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50562,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50564,Kuala Lumpur,3.1078,101.7282
+Kuala Lumpur,50566,Kuala Lumpur,3.138,101.6867
+Kuala Lumpur,50568,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50572,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50576,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50578,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50580,Kuala Lumpur,3.155,101.6888
+Kuala Lumpur,50582,Kuala Lumpur,3.1374,101.6889
+Kuala Lumpur,50586,Kuala Lumpur,3.1698,101.7026
+Kuala Lumpur,50588,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50590,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50592,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50594,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50596,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50598,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50599,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50600,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50603,Kuala Lumpur,3.1249,101.6528
+Kuala Lumpur,50604,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50605,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50608,Kuala Lumpur,3.1465,101.6636
+Kuala Lumpur,50609,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50610,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50612,Kuala Lumpur,3.1683,101.7118
+Kuala Lumpur,50614,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50620,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50621,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50622,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50623,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50626,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50632,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50634,Kuala Lumpur,3.1488,101.6952
+Kuala Lumpur,50636,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50638,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50640,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50642,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50644,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50646,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50648,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50650,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50652,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50653,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50656,Kuala Lumpur,3.1466,101.6934
+Kuala Lumpur,50658,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50660,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50661,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50662,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50664,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50666,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50668,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50670,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50672,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50673,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50676,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50677,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50678,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50680,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50682,Kuala Lumpur,3.1306,101.6983
+Kuala Lumpur,50684,Kuala Lumpur,3.1479,101.6919
+Kuala Lumpur,50688,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50694,Kuala Lumpur,3.156,101.6915
+Kuala Lumpur,50700,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50702,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50704,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50706,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50708,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50710,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50712,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50714,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50716,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50718,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50720,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50722,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50724,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50726,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50728,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50730,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50732,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50734,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50736,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50738,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50740,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50742,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50744,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50746,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50748,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50750,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50752,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50754,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50758,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50760,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50762,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50764,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50766,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50768,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50770,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50772,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50774,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50776,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50778,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50780,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50782,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50784,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50786,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50788,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50790,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50792,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50794,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50796,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50798,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50800,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50802,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50804,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50806,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50808,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50810,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50812,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50814,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50816,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50818,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50901,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50902,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50903,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50904,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50906,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50907,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50908,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50909,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50910,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50911,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50912,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50913,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50914,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50915,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50916,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50917,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50918,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50919,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50920,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50921,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50922,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50923,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50924,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50925,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50926,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50927,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50928,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50929,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50930,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50931,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50932,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50933,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50934,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50935,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50936,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50937,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50938,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50939,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50940,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50941,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50942,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50943,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50944,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50945,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50946,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50947,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50948,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50949,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50950,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50988,Kuala Lumpur,3.1428,101.6902
+Kuala Lumpur,50989,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,50990,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,51000,Kuala Lumpur,3.1911,101.6932
+Kuala Lumpur,51100,Kuala Lumpur,3.175,101.6893
+Kuala Lumpur,51200,Kuala Lumpur,3.1876,101.672
+Kuala Lumpur,51700,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,51990,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,52000,Kuala Lumpur,3.2029,101.6647
+Kuala Lumpur,52100,Kuala Lumpur,3.1833,101.6584
+Kuala Lumpur,52200,Kuala Lumpur,3.1553,101.6668
+Kuala Lumpur,53000,Kuala Lumpur,3.1788,101.7045
+Kuala Lumpur,53100,Kuala Lumpur,3.1962,101.7121
+Kuala Lumpur,53200,Kuala Lumpur,3.1702,101.7056
+Kuala Lumpur,53300,Setapak,3.1876,101.7102
+Kuala Lumpur,53700,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,53800,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,53990,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,54000,Kuala Lumpur,3.1649,101.723
+Kuala Lumpur,54100,Kuala Lumpur,3.1536,101.7038
+Kuala Lumpur,54200,Kuala Lumpur,3.1729,101.7334
+Kuala Lumpur,55000,Kuala Lumpur,3.1532,101.7252
+Kuala Lumpur,55100,Kuala Lumpur,3.1366,101.7172
+Kuala Lumpur,55200,Kuala Lumpur,3.139,101.706
+Kuala Lumpur,55300,Kuala Lumpur,3.1177,101.7424
+Kuala Lumpur,55700,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55710,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55720,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55900,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55902,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55904,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55906,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55908,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55910,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55912,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55914,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55916,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55918,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55920,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55922,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55924,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55926,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55928,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55930,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55932,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55934,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,55990,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,56000,Cheras,3.1056,101.7253
+Kuala Lumpur,56100,Kuala Lumpur,3.1197,101.7275
+Kuala Lumpur,57000,Kuala Lumpur,3.1013,101.6915
+Kuala Lumpur,57100,Kuala Lumpur,3.1093,101.6995
+Kuala Lumpur,57700,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,57990,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,58000,Kuala Lumpur,3.1238,101.6841
+Kuala Lumpur,58100,Kuala Lumpur,3.1185,101.687
+Kuala Lumpur,58200,Kuala Lumpur,3.0934,101.6794
+Kuala Lumpur,58700,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,58990,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,59000,Kuala Lumpur,3.1328,101.6783
+Kuala Lumpur,59100,Kuala Lumpur,3.1317,101.6707
+Kuala Lumpur,59200,Kuala Lumpur,3.1185,101.6757
+Kuala Lumpur,59700,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,59800,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,59990,Kuala Lumpur,3.139,101.6869
+Kuala Lumpur,60000,Kuala Lumpur,3.1456,101.645
+Putrajaya,62000,Putrajaya,2.9264,101.6964
+Putrajaya,62007,Putrajaya,2.9376,101.7032
+Putrajaya,62050,Putrajaya,2.9264,101.6964
+Putrajaya,62100,Putrajaya,2.928,101.698
+Putrajaya,62150,Putrajaya,2.9264,101.6964
+Putrajaya,62200,Putrajaya,2.9264,101.6964
+Putrajaya,62250,Putrajaya,2.9472,101.6872
+Putrajaya,62300,Putrajaya,2.9264,101.6964
+Putrajaya,62502,Putrajaya,2.9276,101.696
+Putrajaya,62504,Putrajaya,2.9264,101.6964
+Putrajaya,62505,Putrajaya,2.9264,101.6964
+Putrajaya,62506,Putrajaya,2.9264,101.6964
+Putrajaya,62510,Putrajaya,2.9264,101.6964
+Putrajaya,62512,Putrajaya,2.9264,101.6964
+Putrajaya,62514,Putrajaya,2.9264,101.6964
+Putrajaya,62516,Putrajaya,2.9264,101.6964
+Putrajaya,62517,Putrajaya,2.9264,101.6964
+Putrajaya,62518,Putrajaya,2.9384,101.7037
+Putrajaya,62519,Putrajaya,2.9264,101.6964
+Putrajaya,62520,Putrajaya,2.9264,101.6964
+Putrajaya,62522,Putrajaya,2.935,101.6945
+Putrajaya,62524,Putrajaya,2.9264,101.6964
+Putrajaya,62526,Putrajaya,2.9264,101.6964
+Putrajaya,62527,Putrajaya,2.9264,101.6964
+Putrajaya,62530,Putrajaya,2.9322,101.7008
+Putrajaya,62532,Putrajaya,2.9264,101.6964
+Putrajaya,62536,Putrajaya,2.9264,101.6964
+Putrajaya,62540,Putrajaya,2.9264,101.6964
+Putrajaya,62542,Putrajaya,2.9264,101.6964
+Putrajaya,62546,Putrajaya,2.9327,101.6976
+Putrajaya,62550,Putrajaya,2.9264,101.6964
+Putrajaya,62551,Putrajaya,2.9264,101.6964
+Putrajaya,62570,Putrajaya,2.9244,101.6923
+Putrajaya,62574,Putrajaya,2.9264,101.6964
+Putrajaya,62576,Putrajaya,2.9264,101.6964
+Putrajaya,62582,Putrajaya,2.9264,101.6964
+Putrajaya,62584,Putrajaya,2.9422,101.707
+Putrajaya,62590,Putrajaya,2.9264,101.6964
+Putrajaya,62592,Putrajaya,2.9264,101.6964
+Putrajaya,62594,Putrajaya,2.9264,101.6964
+Putrajaya,62596,Putrajaya,2.9264,101.6964
+Putrajaya,62602,Putrajaya,2.9267,101.6935
+Putrajaya,62604,Putrajaya,2.9293,101.6986
+Putrajaya,62605,Putrajaya,2.9264,101.6964
+Putrajaya,62606,Putrajaya,2.9264,101.6964
+Putrajaya,62616,Putrajaya,2.9264,101.6964
+Putrajaya,62618,Putrajaya,2.9264,101.6964
+Putrajaya,62620,Putrajaya,2.9206,101.6875
+Putrajaya,62623,Putrajaya,2.9151,101.6837
+Putrajaya,62624,Putrajaya,2.9264,101.6964
+Putrajaya,62628,Putrajaya,2.9264,101.6964
+Putrajaya,62630,Putrajaya,2.9264,101.6964
+Putrajaya,62632,Putrajaya,2.9264,101.6964
+Putrajaya,62648,Putrajaya,2.9213,101.6858
+Putrajaya,62652,Putrajaya,2.9232,101.6915
+Putrajaya,62654,Putrajaya,2.9264,101.6964
+Putrajaya,62662,Putrajaya,2.9309,101.6977
+Putrajaya,62668,Putrajaya,2.9264,101.6964
+Putrajaya,62670,Putrajaya,2.9366,101.6961
+Putrajaya,62674,Putrajaya,2.9177,101.6839
+Putrajaya,62675,Putrajaya,2.9344,101.7089
+Putrajaya,62676,Putrajaya,2.9264,101.6964
+Putrajaya,62677,Putrajaya,2.9264,101.6964
+Putrajaya,62686,Putrajaya,2.9264,101.6964
+Putrajaya,62692,Putrajaya,2.9306,101.6955
+Putrajaya,62988,Putrajaya,2.9251,101.6574
+Selangor,63000,Cyberjaya (Pusat Bandar Cyberjaya),3.388686,101.661293
+Selangor,63100,Cyberjaya (Universiti Multimedia - MMU),2.923792,101.661545
+Selangor,63200,Cyberjaya (Pejabat Majlis Perbandaran Sepang),2.925188,101.656899
+Selangor,64000,KLIA,2.754555,101.701464
+Selangor,68000,Ampang,3.219355,101.786565
+Selangor,68100,Batu Caves,3.237572,101.683934
+Kuala Lumpur,68100,Batu Caves,3.2178,101.6919
+Pahang,69000,Genting Highlands,3.422,101.7892
+Negeri Sembilan,70000,Seremban,2.8109,101.9012
+Negeri Sembilan,70100,Seremban,2.7107,101.9513
+Negeri Sembilan,70200,Seremban,2.7518,101.9428
+Negeri Sembilan,70300,Seremban,2.7313,101.9307
+Negeri Sembilan,70400,Seremban,2.7486,101.9435
+Negeri Sembilan,70450,Seremban,2.7724,101.9402
+Negeri Sembilan,70500,Seremban,2.7186,101.949
+Negeri Sembilan,70502,Seremban,2.7186,101.949
+Negeri Sembilan,70503,Seremban,2.7186,101.949
+Negeri Sembilan,70504,Seremban,2.7186,101.949
+Negeri Sembilan,70505,Seremban,2.7186,101.949
+Negeri Sembilan,70506,Seremban,2.7186,101.949
+Negeri Sembilan,70508,Seremban,2.7186,101.949
+Negeri Sembilan,70512,Seremban,2.7186,101.949
+Negeri Sembilan,70516,Seremban,2.7186,101.949
+Negeri Sembilan,70517,Seremban,2.7186,101.949
+Negeri Sembilan,70518,Seremban,2.7186,101.949
+Negeri Sembilan,70532,Seremban,2.7186,101.949
+Negeri Sembilan,70534,Seremban,2.7186,101.949
+Negeri Sembilan,70536,Seremban,2.7186,101.949
+Negeri Sembilan,70540,Seremban,2.7186,101.949
+Negeri Sembilan,70546,Seremban,2.7186,101.949
+Negeri Sembilan,70548,Seremban,2.7186,101.949
+Negeri Sembilan,70550,Seremban,2.7186,101.949
+Negeri Sembilan,70551,Seremban,2.7186,101.949
+Negeri Sembilan,70558,Seremban,2.7186,101.949
+Negeri Sembilan,70560,Seremban,2.7186,101.949
+Negeri Sembilan,70564,Seremban,2.7186,101.949
+Negeri Sembilan,70570,Seremban,2.7186,101.949
+Negeri Sembilan,70572,Seremban,2.7186,101.949
+Negeri Sembilan,70576,Seremban,2.7186,101.949
+Negeri Sembilan,70578,Seremban,2.7186,101.949
+Negeri Sembilan,70582,Seremban,2.7186,101.949
+Negeri Sembilan,70586,Seremban,2.7186,101.949
+Negeri Sembilan,70590,Seremban,2.7186,101.949
+Negeri Sembilan,70592,Seremban,2.7186,101.949
+Negeri Sembilan,70594,Seremban,2.7186,101.949
+Negeri Sembilan,70596,Seremban,2.7186,101.949
+Negeri Sembilan,70600,Seremban,2.7313,101.9353
+Negeri Sembilan,70604,Seremban,2.7186,101.949
+Negeri Sembilan,70606,Seremban,2.7186,101.949
+Negeri Sembilan,70608,Seremban,2.7186,101.949
+Negeri Sembilan,70609,Seremban,2.7186,101.949
+Negeri Sembilan,70610,Seremban,2.7186,101.949
+Negeri Sembilan,70620,Seremban,2.6338,102.0522
+Negeri Sembilan,70626,Seremban,2.7186,101.949
+Negeri Sembilan,70628,Seremban,2.7186,101.949
+Negeri Sembilan,70632,Seremban,2.6287,102.057
+Negeri Sembilan,70634,Seremban,2.7186,101.949
+Negeri Sembilan,70644,Seremban,2.723,101.9414
+Negeri Sembilan,70646,Seremban,2.7186,101.949
+Negeri Sembilan,70648,Seremban,2.7186,101.949
+Negeri Sembilan,70658,Seremban,2.7186,101.949
+Negeri Sembilan,70664,Seremban,2.7186,101.949
+Negeri Sembilan,70670,Seremban,2.7186,101.949
+Negeri Sembilan,70672,Seremban,2.7186,101.949
+Negeri Sembilan,70673,Seremban,2.7186,101.949
+Negeri Sembilan,70674,Seremban,2.7186,101.949
+Negeri Sembilan,70676,Seremban,2.7186,101.949
+Negeri Sembilan,70690,Seremban,2.7186,101.949
+Negeri Sembilan,70700,Seremban,2.7186,101.949
+Negeri Sembilan,70710,Seremban,2.7186,101.949
+Negeri Sembilan,70720,Seremban,2.7186,101.949
+Negeri Sembilan,70730,Seremban,2.7186,101.949
+Negeri Sembilan,70740,Seremban,2.7186,101.949
+Negeri Sembilan,70750,Seremban,2.7186,101.949
+Negeri Sembilan,70990,Seremban,2.7186,101.949
+Negeri Sembilan,71000,Port Dickson,2.5932,101.8413
+Negeri Sembilan,71007,Port Dickson,2.5364,101.8068
+Negeri Sembilan,71009,Port Dickson,2.5364,101.8068
+Negeri Sembilan,71010,Rantau,2.589,101.9629
+Negeri Sembilan,71050,Si Rusa,2.5099,102.0049
+Negeri Sembilan,71059,Si Rusa,2.4267,101.8659
+Negeri Sembilan,71100,Rantau,2.5693,101.997
+Negeri Sembilan,71109,Rantau,2.589,101.9629
+Negeri Sembilan,71150,Linggi,2.5272,102.026
+Negeri Sembilan,71159,Linggi,2.4674,102.0523
+Negeri Sembilan,71200,Rantau,2.6309,101.9554
+Negeri Sembilan,71209,Rantau,2.589,101.9629
+Negeri Sembilan,71250,Si Rusa,2.5045,101.9217
+Negeri Sembilan,71259,Si Rusa,2.4267,101.8659
+Negeri Sembilan,71300,Rembau,2.5798,102.1108
+Negeri Sembilan,71309,Rembau,2.5797,102.1024
+Negeri Sembilan,71350,Kota,2.5231,102.1388
+Negeri Sembilan,71359,Kota,2.5083,102.1423
+Negeri Sembilan,71400,Rembau,2.5968,102.0899
+Negeri Sembilan,71409,Rembau,2.5797,102.1024
+Negeri Sembilan,71450,Seremban,2.701,101.9617
+Negeri Sembilan,71459,Seremban,2.7186,101.949
+Negeri Sembilan,71500,Tanjong Ipoh,2.73,102.1526
+Negeri Sembilan,71509,Tanjong Ipoh,2.7501,102.1811
+Negeri Sembilan,71550,Tanjong Ipoh,2.6982,102.1791
+Negeri Sembilan,71559,Tanjong Ipoh,2.7501,102.1811
+Negeri Sembilan,71600,Kuala Klawang,2.9555,102.0719
+Negeri Sembilan,71609,Kuala Klawang,2.9472,102.0855
+Negeri Sembilan,71650,Kuala Klawang,2.9697,102.0807
+Negeri Sembilan,71659,Kuala Klawang,2.9472,102.0855
+Negeri Sembilan,71700,Mantin,2.8078,101.9088
+Negeri Sembilan,71707,Mantin,2.8226,101.9
+Negeri Sembilan,71709,Mantin,2.8226,101.9
+Negeri Sembilan,71750,Mantin,2.8383,101.9214
+Negeri Sembilan,71759,Mantin,2.8226,101.9
+Negeri Sembilan,71760,Bandar Baru Enstek,2.7526,101.7667
+Negeri Sembilan,71770,Seremban,2.738,101.9624
+Negeri Sembilan,71800,Nilai,2.8093,101.8334
+Negeri Sembilan,71807,Nilai,2.8393,101.7949
+Negeri Sembilan,71809,Nilai,2.8393,101.7949
+Negeri Sembilan,71900,Labu,2.7339,101.8927
+Negeri Sembilan,71907,Labu,2.7633,101.7696
+Negeri Sembilan,71909,Labu,2.7633,101.7696
+Negeri Sembilan,71950,Seremban,2.6981,101.9075
+Negeri Sembilan,71960,Port Dickson,2.6616,101.7687
+Negeri Sembilan,72000,Kuala Pilah,2.7226,102.2138
+Negeri Sembilan,72007,Kuala Pilah,2.749,102.2502
+Negeri Sembilan,72009,Kuala Pilah,2.749,102.2502
+Negeri Sembilan,72100,Bahau,2.8199,102.2934
+Negeri Sembilan,72107,Bahau,2.8046,102.3876
+Negeri Sembilan,72109,Bahau,2.8046,102.3876
+Negeri Sembilan,72120,Bandar Seri Jempol,2.8299,102.2531
+Negeri Sembilan,72127,Bandar Seri Jempol,2.8708,102.2548
+Negeri Sembilan,72129,Bandar Seri Jempol,2.8708,102.2548
+Negeri Sembilan,72200,Batu Kikir,2.8352,102.2086
+Negeri Sembilan,72207,Batu Kikir,2.8441,102.3136
+Negeri Sembilan,72209,Batu Kikir,2.8441,102.3136
+Negeri Sembilan,72300,Simpang Pertang,3.018,102.3018
+Negeri Sembilan,72307,Simpang Pertang,2.9571,102.3035
+Negeri Sembilan,72309,Simpang Pertang,2.9571,102.3035
+Negeri Sembilan,72400,Simpang Durian,3.0168,102.1793
+Negeri Sembilan,72409,Simpang Durian,3.1109,102.2248
+Negeri Sembilan,72500,Kuala Pilah,2.7566,102.2523
+Negeri Sembilan,72507,Kuala Pilah,2.749,102.2502
+Negeri Sembilan,72509,Kuala Pilah,2.749,102.2502
+Negeri Sembilan,73000,Tampin,2.5687,102.1824
+Negeri Sembilan,73007,Tampin,2.4898,102.2377
+Negeri Sembilan,73009,Tampin,2.4898,102.2377
+Negeri Sembilan,73100,Johol,2.6182,102.2701
+Negeri Sembilan,73109,Johol,2.636,102.2933
+Negeri Sembilan,73200,Gemencheh,2.6213,102.3113
+Negeri Sembilan,73207,Gemencheh,2.5946,102.4134
+Negeri Sembilan,73209,Gemencheh,2.5946,102.4134
+Negeri Sembilan,73300,Gemencheh,2.5794,102.3977
+Negeri Sembilan,73309,Gemencheh,2.5946,102.4134
+Negeri Sembilan,73400,Gemas,2.6637,102.5259
+Negeri Sembilan,73409,Gemas,2.6673,102.5731
+Negeri Sembilan,73420,Gemas,2.6592,102.5529
+Negeri Sembilan,73430,Pusat  Bandar Palong,2.7184,102.5765
+Negeri Sembilan,73440,Pusat  Bandar Palong,2.6873,102.5585
+Negeri Sembilan,73450,Pusat  Bandar Palong,2.7332,102.5843
+Negeri Sembilan,73460,Pusat  Bandar Palong,3.0808,102.5489
+Negeri Sembilan,73470,Pusat  Bandar Palong,2.9001,102.5625
+Negeri Sembilan,73480,Gemas,2.6705,102.5451
+Negeri Sembilan,73500,Rompin,2.694,102.4612
+Negeri Sembilan,73507,Rompin,2.6945,102.5264
+Negeri Sembilan,73509,Rompin,2.6945,102.5264
+Melaka,75000,Melaka,2.2019,102.2518
+Melaka,75050,Melaka,2.1993,102.2685
+Melaka,75100,Melaka,2.207,102.2545
+Melaka,75150,Melaka,2.2257,102.2563
+Melaka,75200,Melaka,2.2115,102.241
+Melaka,75250,Melaka,2.227,102.2396
+Melaka,75260,Melaka,2.2428,102.2376
+Melaka,75300,Melaka,2.2074,102.251
+Melaka,75350,Melaka,2.2218,102.2585
+Melaka,75400,Melaka,2.211,102.2548
+Melaka,75450,Ayer Keroh,2.2872,102.2759
+Melaka,75460,Melaka,2.21,102.2906
+Melaka,75500,Melaka,2.2057,102.2562
+Melaka,75502,Melaka,2.2057,102.2562
+Melaka,75503,Melaka,2.2057,102.2562
+Melaka,75504,Melaka,2.2057,102.2562
+Melaka,75505,Melaka,2.2057,102.2562
+Melaka,75506,Melaka,2.204,102.2526
+Melaka,75508,Melaka,2.2057,102.2562
+Melaka,75510,Melaka,2.2057,102.2562
+Melaka,75512,Melaka,2.2057,102.2562
+Melaka,75514,Melaka,2.2057,102.2562
+Melaka,75516,Melaka,2.2057,102.2562
+Melaka,75517,Melaka,2.2057,102.2562
+Melaka,75518,Melaka,2.2057,102.2562
+Melaka,75519,Melaka,2.2046,102.2468
+Melaka,75532,Melaka,2.2057,102.2562
+Melaka,75536,Melaka,2.2057,102.2562
+Melaka,75538,Melaka,2.2057,102.2562
+Melaka,75540,Melaka,2.2057,102.2562
+Melaka,75542,Melaka,2.2057,102.2562
+Melaka,75546,Melaka,2.2057,102.2562
+Melaka,75550,Melaka,2.2057,102.2562
+Melaka,75551,Melaka,2.2057,102.2562
+Melaka,75552,Melaka,2.2057,102.2562
+Melaka,75560,Melaka,2.2057,102.2562
+Melaka,75564,Melaka,2.2057,102.2562
+Melaka,75566,Melaka,2.2057,102.2562
+Melaka,75570,Melaka,2.2057,102.2562
+Melaka,75572,Melaka,2.2057,102.2562
+Melaka,75576,Melaka,2.2057,102.2562
+Melaka,75578,Melaka,2.2057,102.2562
+Melaka,75582,Melaka,2.2115,102.2559
+Melaka,75584,Melaka,2.2057,102.2562
+Melaka,75586,Melaka,2.2193,102.2612
+Melaka,75590,Melaka,2.2057,102.2562
+Melaka,75592,Melaka,2.2057,102.2562
+Melaka,75594,Melaka,2.2057,102.2562
+Melaka,75596,Melaka,2.2057,102.2562
+Melaka,75600,Melaka,2.2057,102.2562
+Melaka,75604,Melaka,2.2166,102.2668
+Melaka,75606,Melaka,2.2057,102.2562
+Melaka,75608,Melaka,2.2057,102.2562
+Melaka,75609,Melaka,2.2057,102.2562
+Melaka,75610,Melaka,2.2057,102.2562
+Melaka,75612,Melaka,2.2057,102.2562
+Melaka,75618,Melaka,2.2585,102.2505
+Melaka,75620,Melaka,2.2315,102.298
+Melaka,75622,Melaka,2.2057,102.2562
+Melaka,75626,Melaka,2.2057,102.2562
+Melaka,75628,Melaka,2.2057,102.2562
+Melaka,75630,Melaka,2.2057,102.2562
+Melaka,75632,Melaka,2.2057,102.2562
+Melaka,75646,Melaka,2.2057,102.2562
+Melaka,75648,Melaka,2.2057,102.2562
+Melaka,75662,Melaka,2.2057,102.2562
+Melaka,75670,Melaka,2.2057,102.2562
+Melaka,75672,Melaka,2.2057,102.2562
+Melaka,75673,Melaka,2.2057,102.2562
+Melaka,75674,Melaka,2.2057,102.2562
+Melaka,75676,Melaka,2.2057,102.2562
+Melaka,75690,Melaka,2.2057,102.2562
+Melaka,75700,Melaka,2.2057,102.2562
+Melaka,75710,Melaka,2.2057,102.2562
+Melaka,75720,Melaka,2.2057,102.2562
+Melaka,75730,Melaka,2.2057,102.2562
+Melaka,75740,Melaka,2.2057,102.2562
+Melaka,75750,Melaka,2.2057,102.2562
+Melaka,75760,Melaka,2.2057,102.2562
+Melaka,75900,Melaka,2.2057,102.2562
+Melaka,75902,Melaka,2.2057,102.2562
+Melaka,75904,Melaka,2.2057,102.2562
+Melaka,75906,Melaka,2.2057,102.2562
+Melaka,75908,Melaka,2.2057,102.2562
+Melaka,75910,Melaka,2.2057,102.2562
+Melaka,75912,Melaka,2.2057,102.2562
+Melaka,75914,Melaka,2.2057,102.2562
+Melaka,75916,Melaka,2.2057,102.2562
+Melaka,75918,Melaka,2.2057,102.2562
+Melaka,75990,Melaka,2.2057,102.2562
+Melaka,76100,Durian Tunggal,2.3013,102.2842
+Melaka,76109,Durian Tunggal,2.3149,102.2814
+Melaka,76200,Kem Trendak,2.2891,102.3256
+Melaka,76300,Sungai Udang,2.2867,102.1406
+Melaka,76400,Melaka,2.2057,102.2562
+Melaka,76409,Tanjong Kling,2.2376,102.1588
+Melaka,76450,Melaka,2.2682,102.2234
+Melaka,77000,Jasin,2.2933,102.4146
+Melaka,77007,Jasin,2.3048,102.4258
+Melaka,77008,Jasin,2.3048,102.4258
+Melaka,77009,Jasin,2.3048,102.4258
+Melaka,77100,Asahan,2.38,102.4819
+Melaka,77109,Asahan,2.3862,102.492
+Melaka,77200,Jasin,2.3849,102.2101
+Melaka,77300,Merlimau,2.198,102.3718
+Melaka,77309,Merlimau,2.1389,102.4051
+Melaka,77400,Sungai Rambai',2.1368,102.5051
+Melaka,77409,Sungai Rambai,2.1368,102.5051
+Melaka,77500,Selandar,2.384,102.3584
+Melaka,78000,Alor Gajah,2.3618,102.2215
+Melaka,78009,Alor Gajah,2.374,102.2114
+Melaka,78100,Lubok China,2.4326,102.1127
+Melaka,78200,Kuala Sungai Baru,2.33,102.0961
+Melaka,78300,Masjid Tanah,2.3301,102.1472
+Melaka,78307,Masjid Tanah,2.3504,102.1078
+Melaka,78309,Masjid Tanah,2.3504,102.1078
+Johor,79000,Nusajaya,1.5014,103.6439
+Johor,79100,Nusajaya,1.4835,103.6341
+Johor,79150,Nusajaya,1.4968,103.6524
+Johor,79200,Nusajaya,1.4836,103.6364
+Johor,79250,Nusajaya,1.5034,103.6522
+Johor,79502,Nusajaya,1.5014,103.6439
+Johor,79503,Nusajaya,1.5014,103.6439
+Johor,79504,Nusajaya,1.5014,103.6439
+Johor,79505,Nusajaya,1.5014,103.6439
+Johor,79511,Nusajaya,1.5014,103.6439
+Johor,79513,Nusajaya,1.5014,103.6439
+Johor,79514,Nusajaya,1.5014,103.6439
+Johor,79517,Nusajaya,1.5014,103.6439
+Johor,79518,Nusajaya,1.5014,103.6439
+Johor,79520,Nusajaya,1.457,103.7623
+Johor,79521,Nusajaya,1.5014,103.6439
+Johor,79523,Nusajaya,1.5014,103.6439
+Johor,79532,Nusajaya,1.5014,103.6439
+Johor,79538,Nusajaya,1.5014,103.6439
+Johor,79540,Nusajaya,1.5014,103.6439
+Johor,79546,Nusajaya,1.5014,103.6439
+Johor,79548,Nusajaya,1.5014,103.6439
+Johor,79550,Nusajaya,1.5014,103.6439
+Johor,79552,Nusajaya,1.5014,103.6439
+Johor,79555,Nusajaya,1.5014,103.6439
+Johor,79570,Nusajaya,6.1378,100.3711
+Johor,79575,Nusajaya,1.5014,103.6439
+Johor,79576,Nusajaya,1.5014,103.6439
+Johor,79592,Nusajaya,1.5014,103.6439
+Johor,79601,Nusajaya,1.5014,103.6439
+Johor,79603,Nusajaya,1.5014,103.6439
+Johor,79605,Nusajaya,1.5014,103.6439
+Johor,79606,Nusajaya,1.5014,103.6439
+Johor,79612,Nusajaya,1.5014,103.6439
+Johor,79626,Nusajaya,1.4875,103.7518
+Johor,79630,Nusajaya,1.4831,103.7541
+Johor,79632,Nusajaya,1.4788,103.7416
+Johor,79646,Nusajaya,1.5014,103.6439
+Johor,79658,Nusajaya,1.5014,103.6439
+Johor,79660,Nusajaya,1.5014,103.6439
+Johor,79680,Nusajaya,1.5014,103.6439
+Johor,79681,Nusajaya,1.5014,103.6439
+Johor,79683,Nusajaya,1.5014,103.6439
+Johor,80000,Johor Bahru,1.5035,103.7405
+Johor,80050,Johor Bahru,1.4863,103.7713
+Johor,80100,Johor Bahru,1.5041,103.7052
+Johor,80150,Johor Bahru,1.5074,103.7329
+Johor,80200,Johor Bahru,1.4977,103.7163
+Johor,80250,Johor Bahru,1.5035,103.7404
+Johor,80300,Johor Bahru,1.4757,103.7537
+Johor,80350,Johor Bahru,1.5388,103.7012
+Johor,80400,Johor Bahru,1.5017,103.7414
+Johor,80500,Johor Bahru,1.4634,103.7547
+Johor,80506,Johor Bahru,1.4634,103.7547
+Johor,80508,Johor Bahru,1.4634,103.7547
+Johor,80516,Johor Bahru,1.4634,103.7547
+Johor,80519,Johor Bahru,1.4582,103.7501
+Johor,80534,Johor Bahru,1.4634,103.7547
+Johor,80536,Johor Bahru,1.4634,103.7547
+Johor,80542,Johor Bahru,1.4634,103.7547
+Johor,80546,Johor Bahru,1.4634,103.7547
+Johor,80558,Johor Bahru,1.4634,103.7547
+Johor,80560,Johor Bahru,1.4634,103.7547
+Johor,80564,Johor Bahru,1.4634,103.7547
+Johor,80568,Johor Bahru,1.4634,103.7547
+Johor,80578,Johor Bahru,1.4634,103.7547
+Johor,80584,Johor Bahru,1.4634,103.7547
+Johor,80586,Johor Bahru,1.4583,103.7462
+Johor,80590,Johor Bahru,1.4634,103.7547
+Johor,80592,Johor Bahru,1.4634,103.7547
+Johor,80594,Johor Bahru,1.4634,103.7547
+Johor,80596,Johor Bahru,1.4634,103.7547
+Johor,80600,Johor Bahru,1.4634,103.7547
+Johor,80604,Johor Bahru,1.4634,103.7547
+Johor,80608,Johor Bahru,1.4634,103.7547
+Johor,80620,Johor Bahru,1.5384,103.7686
+Johor,80622,Johor Bahru,1.4634,103.7547
+Johor,80628,Johor Bahru,1.4634,103.7547
+Johor,80644,Johor Bahru,1.4562,103.7613
+Johor,80648,Johor Bahru,1.4634,103.7547
+Johor,80662,Johor Bahru,1.4804,103.7426
+Johor,80664,Johor Bahru,1.4634,103.7547
+Johor,80668,Johor Bahru,1.4634,103.7547
+Johor,80670,Johor Bahru,1.4634,103.7547
+Johor,80672,Johor Bahru,1.4634,103.7547
+Johor,80673,Johor Bahru,1.4712,103.7748
+Johor,80676,Johor Bahru,1.4634,103.7547
+Johor,80700,Johor Bahru,1.4634,103.7547
+Johor,80710,Johor Bahru,1.4634,103.7547
+Johor,80720,Johor Bahru,1.4634,103.7547
+Johor,80730,Johor Bahru,1.4634,103.7547
+Johor,80900,Johor Bahru,1.4634,103.7547
+Johor,80902,Johor Bahru,1.4634,103.7547
+Johor,80904,Johor Bahru,1.4634,103.7547
+Johor,80906,Johor Bahru,1.4634,103.7547
+Johor,80908,Johor Bahru,1.4634,103.7547
+Johor,80988,Johor Bahru,1.4634,103.7547
+Johor,80990,Johor Bahru,1.4634,103.7547
+Johor,81000,Kulai,1.7259,103.5011
+Johor,81100,Johor Bahru,1.5495,103.708
+Johor,81200,Johor Bahru,1.5249,103.6874
+Johor,81300,Johor Bahru,1.5427,103.6487
+Johor,81310,Johor Bahru,1.5107,103.6984
+Johor,81400,Senai,1.6446,103.5973
+Johor,81440,Bandar Tenggara,1.7876,103.6699
+Johor,81450,Gugusan Taib Andak,1.7601,103.6852
+Johor,81500,Sungai Mati,1.5141,103.7014
+Johor,81550,Gelang Patah,1.4619,103.5857
+Johor,81600,Pengerang,1.4656,103.9435
+Johor,81700,Pasir Gudang,1.5002,103.8273
+Johor,81750,Masai,1.5558,103.7616
+Johor,81800,Ulu Tiram,1.6728,103.6325
+Johor,81850,Layang-Layang,1.7832,103.4388
+Johor,81900,Kota Tinggi,1.7427,103.7788
+Johor,81920,Ayer Tawar 3,1.721,103.8967
+Johor,81930,Bandar Penawar,1.6712,103.9725
+Johor,82000,Pontian,1.5666,103.3873
+Johor,82100,Ayer Baloi,1.6927,103.2524
+Johor,82200,Benut,1.6864,103.2713
+Johor,82300,Kukup,1.423,103.4425
+Johor,83000,Batu Pahat,1.8578,103.0357
+Johor,83100,Rengit,1.664,103.2453
+Johor,83200,Senggarang,1.8138,103.0467
+Johor,83300,Seri Gading,1.8197,103.2399
+Johor,83400,Sri Medan,1.5084,103.7136
+Johor,83500,Parit Sulong,1.9663,102.9015
+Johor,83600,Semerah,1.9075,102.8813
+Johor,83700,Yong Peng,1.9139,103.1326
+Johor,84000,Muar,2.0051,102.7335
+Johor,84150,Parit Jawa,1.9152,102.8197
+Johor,84200,Muar,2.0102,102.6981
+Johor,84300,Bukit Pasir,2.1122,102.7617
+Johor,84400,Sungai Mati,2.0749,102.7197
+Johor,84500,Panchor,2.0423,102.9538
+Johor,84600,Pagoh,2.087,102.8871
+Johor,84700,Gerisek,2.215,102.7854
+Johor,84800,Bukit Gambir,2.1437,102.8537
+Johor,84900,Tangkak,2.1462,102.7848
+Johor,85000,Segamat,2.3134,102.9786
+Johor,85100,Batu Anam,2.4247,102.8497
+Johor,85200,Jementah,2.1737,102.9493
+Johor,85300,Labis,2.2604,103.5458
+Johor,85400,Chaah,2.0491,103.1443
+Johor,86000,Kluang,1.9226,103.4038
+Johor,86100,Ayer Hitam,1.9032,103.2165
+Johor,86200,Simpang Rengam,1.881,103.3957
+Johor,86300,Rengam,1.8498,103.3555
+Johor,86400,Parit Raja,1.8605,103.1004
+Johor,86500,Bekok,2.1332,103.4663
+Johor,86600,Paloh,2.1593,103.507
+Johor,86700,Kahang,2.1504,103.5336
+Johor,86800,Mersing,2.3043,103.7599
+Johor,86810,Mersing,2.4361,103.8312
+Johor,86900,Endau,2.5415,103.542
+Labuan,87000,Labuan,5.296,115.2429
+Labuan,87010,Labuan,5.2913,115.2459
+Labuan,87011,Labuan,5.2913,115.2459
+Labuan,87012,Labuan,5.2913,115.2459
+Labuan,87013,Labuan,5.2913,115.2459
+Labuan,87014,Labuan,5.2913,115.2459
+Labuan,87015,Labuan,5.2913,115.2459
+Labuan,87016,Labuan,5.2913,115.2459
+Labuan,87017,Labuan,5.2913,115.2459
+Labuan,87018,Labuan,5.2913,115.2459
+Labuan,87019,Labuan,5.2913,115.2459
+Labuan,87020,Labuan,5.2913,115.2459
+Labuan,87021,Labuan,5.2913,115.2459
+Labuan,87022,Labuan,5.2913,115.2459
+Labuan,87023,Labuan,5.2913,115.2459
+Labuan,87024,Labuan,5.2913,115.2459
+Labuan,87025,Labuan,5.2913,115.2459
+Labuan,87026,Labuan,5.2913,115.2459
+Labuan,87027,Labuan,5.2913,115.2459
+Labuan,87028,Labuan,5.2913,115.2459
+Labuan,87029,Labuan,5.2913,115.2459
+Labuan,87030,Labuan,5.2913,115.2459
+Labuan,87031,Labuan,5.2913,115.2459
+Labuan,87032,Labuan,5.2913,115.2459
+Labuan,87033,Labuan,5.2913,115.2459
+Sabah,88000,Kota Kinabalu,5.8626,115.9946
+Sabah,88100,Kota Kinabalu,5.9412,116.0096
+Sabah,88200,Kota Kinabalu,5.9213,116.0792
+Sabah,88300,Kota Kinabalu,5.9342,116.0802
+Sabah,88400,Kota Kinabalu,5.9615,115.9863
+Sabah,88450,Kota Kinabalu,5.9558,116.0368
+Sabah,88460,Kota Kinabalu,6.0349,116.147
+Sabah,88500,Kota Kinabalu,5.9765,116.1158
+Sabah,88502,Kota Kinabalu,5.9765,116.1158
+Sabah,88504,Kota Kinabalu,5.9765,116.1158
+Sabah,88505,Kota Kinabalu,5.9765,116.1158
+Sabah,88506,Kota Kinabalu,5.9806,116.0753
+Sabah,88508,Kota Kinabalu,5.9765,116.1158
+Sabah,88510,Kota Kinabalu,5.9765,116.1158
+Sabah,88512,Kota Kinabalu,5.9765,116.1158
+Sabah,88514,Kota Kinabalu,5.9765,116.1158
+Sabah,88516,Kota Kinabalu,5.9765,116.1158
+Sabah,88518,Kota Kinabalu,5.9765,116.1158
+Sabah,88520,Kota Kinabalu,5.9765,116.1158
+Sabah,88526,Kota Kinabalu,5.9765,116.1158
+Sabah,88527,Kota Kinabalu,5.9765,116.1158
+Sabah,88532,Kota Kinabalu,5.9765,116.1158
+Sabah,88534,Kota Kinabalu,5.9765,116.1158
+Sabah,88538,Kota Kinabalu,5.9765,116.1158
+Sabah,88540,Kota Kinabalu,5.9765,116.1158
+Sabah,88546,Kota Kinabalu,5.9765,116.1158
+Sabah,88550,Kota Kinabalu,4.4784,118.6129
+Sabah,88551,Kota Kinabalu,4.4801,118.6164
+Sabah,88552,Kota Kinabalu,5.9765,116.1158
+Sabah,88554,Kota Kinabalu,5.9765,116.1158
+Sabah,88556,Kota Kinabalu,5.9765,116.1158
+Sabah,88558,Kota Kinabalu,5.8515,118.0476
+Sabah,88560,Kota Kinabalu,5.9765,116.1158
+Sabah,88562,Kota Kinabalu,5.9765,116.1158
+Sabah,88564,Kota Kinabalu,5.9765,116.1158
+Sabah,88566,Kota Kinabalu,5.9765,116.1158
+Sabah,88568,Kota Kinabalu,5.9765,116.1158
+Sabah,88570,Kota Kinabalu,5.9765,116.1158
+Sabah,88572,Kota Kinabalu,5.9765,116.1158
+Sabah,88576,Kota Kinabalu,5.9591,116.0701
+Sabah,88580,Kota Kinabalu,5.9765,116.1158
+Sabah,88582,Kota Kinabalu,5.9587,116.0657
+Sabah,88586,Kota Kinabalu,5.9566,116.0732
+Sabah,88590,Kota Kinabalu,5.9765,116.1158
+Sabah,88592,Kota Kinabalu,5.9765,116.1158
+Sabah,88594,Kota Kinabalu,5.9765,116.1158
+Sabah,88596,Kota Kinabalu,5.9765,116.1158
+Sabah,88598,Kota Kinabalu,5.9765,116.1158
+Sabah,88600,Kota Kinabalu,5.9786,116.0762
+Sabah,88602,Kota Kinabalu,5.9765,116.1158
+Sabah,88604,Kota Kinabalu,5.9765,116.1158
+Sabah,88606,Kota Kinabalu,5.9765,116.1158
+Sabah,88608,Kota Kinabalu,5.9765,116.1158
+Sabah,88609,Kota Kinabalu,5.9765,116.1158
+Sabah,88610,Kota Kinabalu,5.9765,116.1158
+Sabah,88612,Kota Kinabalu,5.9765,116.1158
+Sabah,88614,Kota Kinabalu,5.9765,116.1158
+Sabah,88617,Kota Kinabalu,5.995,116.0835
+Sabah,88618,Kota Kinabalu,5.94,116.0547
+Sabah,88620,Kota Kinabalu,5.934,116.1014
+Sabah,88621,Kota Kinabalu,5.9765,116.1158
+Sabah,88622,Kota Kinabalu,5.9765,116.1158
+Sabah,88624,Kota Kinabalu,5.9765,116.1158
+Sabah,88626,Kota Kinabalu,5.9765,116.1158
+Sabah,88628,Kota Kinabalu,5.0279,118.318
+Sabah,88630,Kota Kinabalu,5.8594,118.1013
+Sabah,88632,Kota Kinabalu,5.9524,116.6683
+Sabah,88634,Kota Kinabalu,5.9765,116.1158
+Sabah,88644,Kota Kinabalu,5.9765,116.1158
+Sabah,88646,Kota Kinabalu,5.9765,116.1158
+Sabah,88648,Kota Kinabalu,5.9765,116.1158
+Sabah,88656,Kota Kinabalu,5.9765,116.1158
+Sabah,88658,Kota Kinabalu,5.9765,116.1158
+Sabah,88660,Kota Kinabalu,5.8687,118.0575
+Sabah,88661,Kota Kinabalu,5.9765,116.1158
+Sabah,88662,Kota Kinabalu,5.9765,116.1158
+Sabah,88670,Kota Kinabalu,5.9765,116.1158
+Sabah,88672,Kota Kinabalu,5.9765,116.1158
+Sabah,88673,Kota Kinabalu,5.9765,116.1158
+Sabah,88675,Kota Kinabalu,5.9818,116.0756
+Sabah,88676,Kota Kinabalu,5.9765,116.1158
+Sabah,88680,Kota Kinabalu,6.0252,116.1114
+Sabah,88690,Kota Kinabalu,5.9765,116.1158
+Sabah,88700,Beverly,5.4204,116.7968
+Sabah,88721,Putatan,5.4204,116.7968
+Sabah,88722,Putatan,5.4204,116.7968
+Sabah,88723,Putatan,5.4204,116.7968
+Sabah,88724,Putatan,5.4204,116.7968
+Sabah,88725,Putatan,5.4204,116.7968
+Sabah,88757,Kota Kinabalu,5.9765,116.1158
+Sabah,88758,Kota Kinabalu,5.9765,116.1158
+Sabah,88759,Kota Kinabalu,5.9765,116.1158
+Sabah,88760,Kota Kinabalu,5.9765,116.1158
+Sabah,88761,Kota Kinabalu,5.9765,116.1158
+Sabah,88762,Kota Kinabalu,5.9765,116.1158
+Sabah,88763,Kota Kinabalu,5.9765,116.1158
+Sabah,88764,Kota Kinabalu,5.9765,116.1158
+Sabah,88765,Kota Kinabalu,5.9765,116.1158
+Sabah,88766,Kota Kinabalu,5.9765,116.1158
+Sabah,88767,Kota Kinabalu,5.9765,116.1158
+Sabah,88768,Kota Kinabalu,5.9765,116.1158
+Sabah,88769,Kota Kinabalu,5.9765,116.1158
+Sabah,88770,Kota Kinabalu,5.9765,116.1158
+Sabah,88771,Kota Kinabalu,5.9765,116.1158
+Sabah,88772,Kota Kinabalu,5.9765,116.1158
+Sabah,88773,Kota Kinabalu,5.9765,116.1158
+Sabah,88774,Kota Kinabalu,5.9765,116.1158
+Sabah,88775,Kota Kinabalu,5.9765,116.1158
+Sabah,88776,Kota Kinabalu,5.9765,116.1158
+Sabah,88777,Kota Kinabalu,5.9765,116.1158
+Sabah,88778,Kota Kinabalu,5.9765,116.1158
+Sabah,88779,Kota Kinabalu,5.9765,116.1158
+Sabah,88780,Kota Kinabalu,5.9765,116.1158
+Sabah,88781,Kota Kinabalu,5.9765,116.1158
+Sabah,88782,Kota Kinabalu,5.9765,116.1158
+Sabah,88783,Kota Kinabalu,5.9765,116.1158
+Sabah,88784,Kota Kinabalu,5.9765,116.1158
+Sabah,88785,Kota Kinabalu,5.9765,116.1158
+Sabah,88786,Kota Kinabalu,5.9765,116.1158
+Sabah,88787,Kota Kinabalu,5.9765,116.1158
+Sabah,88788,Kota Kinabalu,5.9765,116.1158
+Sabah,88789,Kota Kinabalu,5.9765,116.1158
+Sabah,88790,Kota Kinabalu,5.9765,116.1158
+Sabah,88800,Kota Kinabalu,5.9765,116.1158
+Sabah,88801,Kota Kinabalu,5.9765,116.1158
+Sabah,88802,Kota Kinabalu,5.9765,116.1158
+Sabah,88803,Kota Kinabalu,5.9765,116.1158
+Sabah,88804,Kota Kinabalu,5.9765,116.1158
+Sabah,88805,Kota Kinabalu,5.9765,116.1158
+Sabah,88806,Kota Kinabalu,5.9765,116.1158
+Sabah,88807,Kota Kinabalu,5.9765,116.1158
+Sabah,88808,Kota Kinabalu,5.9765,116.1158
+Sabah,88809,Kota Kinabalu,5.9765,116.1158
+Sabah,88810,Kota Kinabalu,5.9765,116.1158
+Sabah,88811,Kota Kinabalu,5.9765,116.1158
+Sabah,88812,Kota Kinabalu,5.9765,116.1158
+Sabah,88813,Kota Kinabalu,5.9765,116.1158
+Sabah,88814,Kota Kinabalu,5.9765,116.1158
+Sabah,88815,Kota Kinabalu,5.9765,116.1158
+Sabah,88816,Kota Kinabalu,5.9765,116.1158
+Sabah,88817,Kota Kinabalu,5.9765,116.1158
+Sabah,88818,Kota Kinabalu,5.9765,116.1158
+Sabah,88819,Kota Kinabalu,5.9765,116.1158
+Sabah,88820,Kota Kinabalu,5.9765,116.1158
+Sabah,88821,Kota Kinabalu,5.9765,116.1158
+Sabah,88822,Kota Kinabalu,5.9765,116.1158
+Sabah,88823,Kota Kinabalu,5.9765,116.1158
+Sabah,88824,Kota Kinabalu,5.9765,116.1158
+Sabah,88825,Kota Kinabalu,5.9765,116.1158
+Sabah,88826,Kota Kinabalu,5.9765,116.1158
+Sabah,88827,Kota Kinabalu,5.9765,116.1158
+Sabah,88828,Kota Kinabalu,5.9765,116.1158
+Sabah,88829,Kota Kinabalu,5.9765,116.1158
+Sabah,88830,Kota Kinabalu,5.9765,116.1158
+Sabah,88831,Kota Kinabalu,5.9765,116.1158
+Sabah,88832,Kota Kinabalu,5.9765,116.1158
+Sabah,88833,Kota Kinabalu,5.9765,116.1158
+Sabah,88834,Kota Kinabalu,5.9765,116.1158
+Sabah,88835,Kota Kinabalu,5.9765,116.1158
+Sabah,88836,Kota Kinabalu,5.9765,116.1158
+Sabah,88837,Kota Kinabalu,5.9765,116.1158
+Sabah,88838,Kota Kinabalu,5.9765,116.1158
+Sabah,88839,Kota Kinabalu,5.9765,116.1158
+Sabah,88840,Kota Kinabalu,5.9765,116.1158
+Sabah,88841,Kota Kinabalu,5.9765,116.1158
+Sabah,88842,Kota Kinabalu,5.9765,116.1158
+Sabah,88843,Kota Kinabalu,5.9765,116.1158
+Sabah,88844,Kota Kinabalu,5.9765,116.1158
+Sabah,88845,Kota Kinabalu,5.9765,116.1158
+Sabah,88846,Kota Kinabalu,5.9765,116.1158
+Sabah,88847,Kota Kinabalu,5.9765,116.1158
+Sabah,88848,Kota Kinabalu,5.9765,116.1158
+Sabah,88849,Kota Kinabalu,5.9765,116.1158
+Sabah,88850,Kota Kinabalu,5.9765,116.1158
+Sabah,88851,Kota Kinabalu,5.9765,116.1158
+Sabah,88852,Kota Kinabalu,5.9765,116.1158
+Sabah,88853,Kota Kinabalu,5.9765,116.1158
+Sabah,88854,Kota Kinabalu,5.9765,116.1158
+Sabah,88855,Kota Kinabalu,5.9765,116.1158
+Sabah,88856,Likas,6.008,116.1256
+Sabah,88857,Inanam,5.9933,116.1322
+Sabah,88858,Tanjung Aru,5.9771,116.0678
+Sabah,88860,Kota Kinabalu,5.9765,116.1158
+Sabah,88861,Kota Kinabalu,5.9765,116.1158
+Sabah,88862,Kota Kinabalu,5.9765,116.1158
+Sabah,88863,Kota Kinabalu,5.9765,116.1158
+Sabah,88865,Kota Kinabalu,5.9765,116.1158
+Sabah,88866,Kota Kinabalu,5.9765,116.1158
+Sabah,88867,Kota Kinabalu,5.9765,116.1158
+Sabah,88868,Kota Kinabalu,5.9765,116.1158
+Sabah,88869,Kota Kinabalu,5.9765,116.1158
+Sabah,88870,Kota Kinabalu,5.9765,116.1158
+Sabah,88871,Kota Kinabalu,5.9765,116.1158
+Sabah,88872,Kota Kinabalu,5.9765,116.1158
+Sabah,88873,Kota Kinabalu,5.9765,116.1158
+Sabah,88874,Kota Kinabalu,5.9765,116.1158
+Sabah,88875,Kota Kinabalu,5.9765,116.1158
+Sabah,88900,Kota Kinabalu,5.9765,116.1158
+Sabah,88901,Kota Kinabalu,5.9765,116.1158
+Sabah,88902,Kota Kinabalu,5.9765,116.1158
+Sabah,88903,Kota Kinabalu,5.9765,116.1158
+Sabah,88904,Kota Kinabalu,5.9765,116.1158
+Sabah,88905,Kota Kinabalu,5.9765,116.1158
+Sabah,88906,Kota Kinabalu,5.9765,116.1158
+Sabah,88988,Kota Kinabalu,5.9765,116.1158
+Sabah,88990,Kota Kinabalu,5.9765,116.1158
+Sabah,88991,Kota Kinabalu,5.9765,116.1158
+Sabah,88992,Kota Kinabalu,5.9765,116.1158
+Sabah,88993,Kota Kinabalu,5.9765,116.1158
+Sabah,88994,Kota Kinabalu,5.9765,116.1158
+Sabah,88995,Kota Kinabalu,5.9765,116.1158
+Sabah,88996,Kota Kinabalu,5.9765,116.1158
+Sabah,88997,Kota Kinabalu,5.9765,116.1158
+Sabah,88998,Kota Kinabalu,5.9765,116.1158
+Sabah,88999,Kota Kinabalu,5.9765,116.1158
+Sabah,89000,Keningau,5.3561,116.3049
+Sabah,89007,Keningau,5.265,116.3283
+Sabah,89008,Keningau,5.265,116.3283
+Sabah,89009,Keningau,5.265,116.3283
+Sabah,89050,Kudat,6.8298,116.8867
+Sabah,89057,Kudat,6.8285,116.7241
+Sabah,89058,Kudat,6.8285,116.7241
+Sabah,89059,Kudat,6.8285,116.7241
+Sabah,89100,Kota Marudu,6.5407,116.8224
+Sabah,89107,Kota Marudu,6.4852,116.7328
+Sabah,89108,Kota Marudu,6.4852,116.7328
+Sabah,89109,Kota Marudu,6.4852,116.7328
+Sabah,89150,Kota Belud,6.3463,116.4665
+Sabah,89157,Kota Belud,6.3648,116.4476
+Sabah,89158,Kota Belud,6.3648,116.4476
+Sabah,89159,Kota Belud,6.3648,116.4476
+Sabah,89200,Tuaran,6.132,116.2069
+Sabah,89207,Tuaran,6.1686,116.2348
+Sabah,89208,Tuaran,6.1686,116.2348
+Sabah,89209,Tuaran,6.1686,116.2348
+Sabah,89250,Tamparuli,6.117,116.2675
+Sabah,89257,Tamparuli,6.117,116.2675
+Sabah,89258,Tamparuli,6.117,116.2675
+Sabah,89259,Tamparuli,6.117,116.2675
+Sabah,89260,Tenghilan,5.9977,116.529
+Sabah,89300,Ranau,5.9589,116.6402
+Sabah,89307,Ranau,5.9371,116.6695
+Sabah,89308,Ranau,5.9371,116.6695
+Sabah,89309,Ranau,5.9371,116.6695
+Sabah,89500,Penampang,5.8883,116.1026
+Sabah,89507,Penampang,5.8794,116.104
+Sabah,89508,Penampang,5.8794,116.104
+Sabah,89509,Penampang,5.8794,116.104
+Sabah,89600,Papar,5.5174,115.9036
+Sabah,89607,Papar,5.6064,115.9625
+Sabah,89608,Papar,5.6064,115.9625
+Sabah,89609,Papar,5.6064,115.9625
+Sabah,89650,Tambunan,5.6933,116.3797
+Sabah,89657,Tambunan,5.6915,116.3775
+Sabah,89658,Tambunan,5.6915,116.3775
+Sabah,89659,Tambunan,5.6915,116.3775
+Sabah,89700,Bongawan,5.4835,115.7834
+Sabah,89707,Bongawan,5.4835,115.7834
+Sabah,89708,Bongawan,5.4835,115.7834
+Sabah,89709,Bongawan,5.4835,115.7834
+Sabah,89720,Membakut,5.5243,115.6889
+Sabah,89727,Membakut,5.5243,115.6889
+Sabah,89728,Membakut,5.5243,115.6889
+Sabah,89729,Membakut,5.5243,115.6889
+Sabah,89740,Kuala Penyu,5.4894,115.5347
+Sabah,89747,Kuala Penyu,5.4914,115.5491
+Sabah,89748,Kuala Penyu,5.4914,115.5491
+Sabah,89749,Kuala Penyu,5.4914,115.5491
+Sabah,89760,Menumbok,5.3398,115.3766
+Sabah,89767,Menumbok,5.3195,115.3756
+Sabah,89768,Menumbok,5.3195,115.3756
+Sabah,89769,Menumbok,5.3195,115.3756
+Sabah,89800,Beaufort,5.3452,115.7078
+Sabah,89807,Beaufort,5.3475,115.7273
+Sabah,89808,Beaufort,5.3475,115.7273
+Sabah,89809,Beaufort,5.3475,115.7273
+Sabah,89850,Sipitang,5.0331,115.5728
+Sabah,89857,Sipitang,5.0202,115.5811
+Sabah,89858,Sipitang,5.0202,115.5811
+Sabah,89859,Sipitang,5.0202,115.5811
+Sabah,89900,Tenom,4.9839,115.93
+Sabah,89907,Tenom,4.9872,115.9241
+Sabah,89908,Tenom,4.9872,115.9241
+Sabah,89909,Tenom,4.9872,115.9241
+Sabah,89950,Nabawan,4.7676,116.4017
+Sabah,89957,Nabawan,5.0414,116.4267
+Sabah,89958,Nabawan,5.0414,116.4267
+Sabah,89959,Nabawan,5.0414,116.4267
+Sabah,90000,Sandakan,5.848,117.9591
+Sabah,90009,Sandakan,5.8456,118.0571
+Sabah,90100,Beluran,5.9945,117.3361
+Sabah,90107,Beluran,5.7168,117.4375
+Sabah,90109,Beluran,5.7168,117.4375
+Sabah,90200,Kota Kinabatangan,5.2438,117.4841
+Sabah,90300,Sandakan,5.8456,118.0571
+Sabah,90307,Sandakan,5.8456,118.0571
+Sabah,90400,Pamol,6.0793,117.5024
+Sabah,90700,Sandakan,5.8456,118.0571
+Sabah,90701,Sandakan,5.8456,118.0571
+Sabah,90702,Sandakan,5.8456,118.0571
+Sabah,90703,Sandakan,5.8456,118.0571
+Sabah,90704,Sandakan,5.8456,118.0571
+Sabah,90705,Sandakan,5.8456,118.0571
+Sabah,90706,Sandakan,5.8456,118.0571
+Sabah,90707,Sandakan,5.8456,118.0571
+Sabah,90708,Sandakan,5.8456,118.0571
+Sabah,90709,Sandakan,5.8456,118.0571
+Sabah,90711,Sandakan,5.8456,118.0571
+Sabah,90712,Sandakan,5.8456,118.0571
+Sabah,90713,Sandakan,5.8456,118.0571
+Sabah,90714,Sandakan,5.8456,118.0571
+Sabah,90715,Sandakan,5.8456,118.0571
+Sabah,90716,Sandakan,5.8456,118.0571
+Sabah,90717,Sandakan,5.8456,118.0571
+Sabah,90718,Sandakan,5.8456,118.0571
+Sabah,90719,Sandakan,5.8456,118.0571
+Sabah,90720,Sandakan,5.8456,118.0571
+Sabah,90721,Sandakan,5.8456,118.0571
+Sabah,90722,Sandakan,5.8456,118.0571
+Sabah,90723,Sandakan,5.8456,118.0571
+Sabah,90724,Sandakan,5.8456,118.0571
+Sabah,90725,Sandakan,5.8456,118.0571
+Sabah,90726,Sandakan,5.8456,118.0571
+Sabah,90727,Sandakan,5.8456,118.0571
+Sabah,90728,Sandakan,5.8456,118.0571
+Sabah,90729,Sandakan,5.8456,118.0571
+Sabah,90730,Sandakan,5.8456,118.0571
+Sabah,90731,Sandakan,5.8456,118.0571
+Sabah,90732,Sandakan,5.8456,118.0571
+Sabah,90733,Sandakan,5.8456,118.0571
+Sabah,90734,Sandakan,5.8456,118.0571
+Sabah,90735,Sandakan,5.8456,118.0571
+Sabah,90736,Sandakan,5.8456,118.0571
+Sabah,90737,Sandakan,5.8456,118.0571
+Sabah,90738,Sandakan,5.8456,118.0571
+Sabah,90739,Sandakan,5.8456,118.0571
+Sabah,90740,Sandakan,5.8456,118.0571
+Sabah,90741,Sandakan,5.8456,118.0571
+Sabah,91000,Tawau,4.2901,117.8994
+Sabah,91007,Tawau,4.2825,117.9148
+Sabah,91008,Tawau,4.2825,117.9148
+Sabah,91009,Tawau,4.2825,117.9148
+Sabah,91010,Tawau,4.2825,117.9148
+Sabah,91011,Tawau,4.2825,117.9148
+Sabah,91012,Tawau,4.2825,117.9148
+Sabah,91013,Tawau,4.2825,117.9148
+Sabah,91014,Tawau,4.2825,117.9148
+Sabah,91015,Tawau,4.2825,117.9148
+Sabah,91016,Tawau,4.2825,117.9148
+Sabah,91017,Tawau,4.2825,117.9148
+Sabah,91018,Tawau,4.2825,117.9148
+Sabah,91019,Tawau,4.2825,117.9148
+Sabah,91020,Tawau,4.2825,117.9148
+Sabah,91021,Tawau,4.2825,117.9148
+Sabah,91022,Tawau,4.2825,117.9148
+Sabah,91023,Tawau,4.2825,117.9148
+Sabah,91024,Tawau,4.2825,117.9148
+Sabah,91025,Tawau,4.2825,117.9148
+Sabah,91026,Tawau,4.2825,117.9148
+Sabah,91027,Tawau,4.2825,117.9148
+Sabah,91028,Tawau,4.2825,117.9148
+Sabah,91029,Tawau,4.2825,117.9148
+Sabah,91030,Tawau,4.2825,117.9148
+Sabah,91031,Tawau,4.2825,117.9148
+Sabah,91032,Tawau,4.2825,117.9148
+Sabah,91033,Tawau,4.2825,117.9148
+Sabah,91034,Tawau,4.2825,117.9148
+Sabah,91035,Tawau,4.2825,117.9148
+Sabah,91100,Lahad Datu,5.0434,118.346
+Sabah,91109,Lahad Datu,5.0488,118.3593
+Sabah,91110,Lahad Datu,5.0488,118.3593
+Sabah,91111,Lahad Datu,5.0488,118.3593
+Sabah,91112,Lahad Datu,5.0488,118.3593
+Sabah,91113,Lahad Datu,5.0488,118.3593
+Sabah,91114,Lahad Datu,5.0488,118.3593
+Sabah,91115,Lahad Datu,5.0488,118.3593
+Sabah,91116,Lahad Datu,5.0488,118.3593
+Sabah,91117,Lahad Datu,5.0488,118.3593
+Sabah,91118,Lahad Datu,5.0488,118.3593
+Sabah,91119,Lahad Datu,5.0488,118.3593
+Sabah,91120,Lahad Datu,5.0488,118.3593
+Sabah,91121,Lahad Datu,5.0488,118.3593
+Sabah,91122,Lahad Datu,5.0488,118.3593
+Sabah,91123,Lahad Datu,5.0488,118.3593
+Sabah,91124,Lahad Datu,5.0488,118.3593
+Sabah,91125,Lahad Datu,5.0488,118.3593
+Sabah,91126,Lahad Datu,5.0488,118.3593
+Sabah,91127,Lahad Datu,5.0488,118.3593
+Sabah,91128,Lahad Datu,5.0488,118.3593
+Sabah,91150,Lahad Datu,5.0488,118.3593
+Sabah,91200,Kunak,4.677,118.1392
+Sabah,91207,Kunak,4.7563,118.0895
+Sabah,91209,Kunak,4.7563,118.0895
+Sabah,91300,Semporna,4.4363,118.5318
+Sabah,91307,Semporna,4.4363,118.5318
+Sabah,91308,Semporna,4.4363,118.5318
+Sabah,91309,Semporna,4.4363,118.5318
+Sarawak,93000,Kuching,1.5455,110.3439
+Sarawak,93010,Kuching,1.5361,110.3442
+Sarawak,93050,Kuching,1.5831,110.2251
+Sarawak,93100,Kuching,1.6138,110.4597
+Sarawak,93150,Kuching,1.5585,110.3877
+Sarawak,93200,Kuching,1.5298,110.3462
+Sarawak,93250,Kuching,1.562,110.3152
+Sarawak,93300,Kuching,1.5992,110.4436
+Sarawak,93350,Kuching,1.5435,110.3816
+Sarawak,93400,Kuching,1.6167,110.4407
+Sarawak,93450,Kuching,1.5484,110.3676
+Sarawak,93500,Kuching,1.531,110.3442
+Sarawak,93502,Kuching,1.531,110.3442
+Sarawak,93503,Kuching,1.531,110.3442
+Sarawak,93504,Kuching,1.531,110.3442
+Sarawak,93505,Kuching,1.531,110.3442
+Sarawak,93506,Kuching,1.531,110.3442
+Sarawak,93507,Kuching,1.531,110.3442
+Sarawak,93508,Kuching,1.531,110.3442
+Sarawak,93514,Kuching,1.531,110.3442
+Sarawak,93516,Kuching,1.531,110.3442
+Sarawak,93517,Kuching,1.531,110.3442
+Sarawak,93518,Kuching,1.531,110.3442
+Sarawak,93519,Kuching,1.5545,110.3395
+Sarawak,93520,Kuching,1.531,110.3442
+Sarawak,93527,Kuching,1.531,110.3442
+Sarawak,93529,Kuching,1.531,110.3442
+Sarawak,93532,Kuching,1.531,110.3442
+Sarawak,93540,Kuching,1.531,110.3442
+Sarawak,93550,Kuching,3.1785,113.0391
+Sarawak,93551,Kuching,2.8774,112.8511
+Sarawak,93552,Kuching,1.531,110.3442
+Sarawak,93554,Kuching,1.531,110.3442
+Sarawak,93556,Kuching,1.531,110.3442
+Sarawak,93558,Kuching,1.531,110.3442
+Sarawak,93560,Kuching,1.531,110.3442
+Sarawak,93564,Kuching,1.5977,110.34
+Sarawak,93566,Kuching,1.531,110.3442
+Sarawak,93570,Kuching,1.531,110.3442
+Sarawak,93572,Kuching,1.531,110.3442
+Sarawak,93576,Kuching,1.531,110.3442
+Sarawak,93578,Kuching,1.5306,110.3376
+Sarawak,93582,Kuching,1.4267,110.1452
+Sarawak,93586,Kuching,1.531,110.3442
+Sarawak,93590,Kuching,1.531,110.3442
+Sarawak,93592,Kuching,1.531,110.3442
+Sarawak,93594,Kuching,1.531,110.3442
+Sarawak,93596,Kuching,1.531,110.3442
+Sarawak,93600,Kuching,1.5568,110.3522
+Sarawak,93604,Kuching,1.5649,110.3121
+Sarawak,93606,Kuching,1.531,110.3442
+Sarawak,93608,Kuching,1.1658,110.5655
+Sarawak,93609,Kuching,1.531,110.3442
+Sarawak,93610,Kuching,1.531,110.3442
+Sarawak,93612,Kuching,1.5852,110.3723
+Sarawak,93614,Kuching,1.531,110.3442
+Sarawak,93618,Kuching,1.4877,110.3436
+Sarawak,93619,Kuching,1.5585,110.3833
+Sarawak,93620,Kuching,1.4094,110.3372
+Sarawak,93626,Kuching,1.531,110.3442
+Sarawak,93628,Kuching,1.531,110.3442
+Sarawak,93632,Kuching,1.5485,110.3386
+Sarawak,93634,Kuching,1.531,110.3442
+Sarawak,93648,Kuching,1.531,110.3442
+Sarawak,93658,Kuching,1.531,110.3442
+Sarawak,93660,Kuching,1.531,110.3442
+Sarawak,93661,Kuching,1.531,110.3442
+Sarawak,93662,Kuching,1.531,110.3442
+Sarawak,93670,Kuching,1.531,110.3442
+Sarawak,93672,Kuching,1.531,110.3442
+Sarawak,93677,Kuching,1.4264,110.3212
+Sarawak,93690,Kuching,1.531,110.3442
+Sarawak,93694,Kuching,1.531,110.3442
+Sarawak,93700,Kuching,1.531,110.3442
+Sarawak,93702,Kuching,1.531,110.3442
+Sarawak,93704,Kuching,1.531,110.3442
+Sarawak,93706,Kuching,1.531,110.3442
+Sarawak,93708,Kuching,1.531,110.3442
+Sarawak,93710,Kuching,1.531,110.3442
+Sarawak,93712,Kuching,1.531,110.3442
+Sarawak,93714,Kuching,1.531,110.3442
+Sarawak,93716,Kuching,1.531,110.3442
+Sarawak,93718,Kuching,1.531,110.3442
+Sarawak,93720,Kuching,1.531,110.3442
+Sarawak,93722,Kuching,1.531,110.3442
+Sarawak,93724,Kuching,1.531,110.3442
+Sarawak,93726,Kuching,1.531,110.3442
+Sarawak,93728,Kuching,1.531,110.3442
+Sarawak,93730,Kuching,1.531,110.3442
+Sarawak,93732,Kuching,1.531,110.3442
+Sarawak,93734,Kuching,1.531,110.3442
+Sarawak,93736,Kuching,1.531,110.3442
+Sarawak,93738,Kuching,1.531,110.3442
+Sarawak,93740,Kuching,1.531,110.3442
+Sarawak,93742,Kuching,1.531,110.3442
+Sarawak,93744,Kuching,1.531,110.3442
+Sarawak,93746,Kuching,1.531,110.3442
+Sarawak,93748,Kuching,1.531,110.3442
+Sarawak,93750,Kuching,1.531,110.3442
+Sarawak,93752,Kuching,1.531,110.3442
+Sarawak,93754,Kuching,1.531,110.3442
+Sarawak,93756,Kuching,1.531,110.3442
+Sarawak,93758,Kuching,1.531,110.3442
+Sarawak,93760,Kuching,1.531,110.3442
+Sarawak,93762,Kuching,1.531,110.3442
+Sarawak,93764,Kuching,1.531,110.3442
+Sarawak,93900,Kuching,1.531,110.3442
+Sarawak,93902,Kuching,1.531,110.3442
+Sarawak,93904,Kuching,1.531,110.3442
+Sarawak,93906,Kuching,1.531,110.3442
+Sarawak,93908,Kuching,1.531,110.3442
+Sarawak,93910,Kuching,1.531,110.3442
+Sarawak,93912,Kuching,1.531,110.3442
+Sarawak,93914,Kuching,1.531,110.3442
+Sarawak,93916,Kuching,1.531,110.3442
+Sarawak,93990,Kuching,1.531,110.3442
+Sarawak,94000,Bau,1.4813,110.1013
+Sarawak,94007,Bau,1.418,110.1614
+Sarawak,94009,Bau,1.418,110.1614
+Sarawak,94200,Siburan,1.3148,110.3751
+Sarawak,94300,Kota Samarahan,1.4727,110.402
+Sarawak,94500,Lundu,1.6733,109.8363
+Sarawak,94507,Lundu,1.6752,109.8007
+Sarawak,94509,Lundu,1.6752,109.8007
+Sarawak,94600,Asajaya,1.5424,110.516
+Sarawak,94650,Kabong,1.8453,111.4252
+Sarawak,94700,Serian,1.2438,110.2563
+Sarawak,94707,Serian,1.1727,110.5639
+Sarawak,94709,Serian,1.1727,110.5639
+Sarawak,94750,Serian,1.1335,110.5286
+Sarawak,94760,Serian,1.0172,110.3577
+Sarawak,94800,Simunjan,1.2657,110.8125
+Sarawak,94807,Simunjan,1.1862,110.9032
+Sarawak,94809,Simunjan,1.1862,110.9032
+Sarawak,94850,Sebuyau,1.3337,110.9275
+Sarawak,94900,Lingga,1.3306,111.1952
+Sarawak,94950,Pusa,1.6097,111.4337
+Sarawak,95000,Sri Aman,1.3177,111.3894
+Sarawak,95007,Sri Aman,1.2336,111.4637
+Sarawak,95008,Sri Aman,1.2336,111.4637
+Sarawak,95009,Sri Aman,1.2336,111.4637
+Sarawak,95300,Roban,1.8838,111.3155
+Sarawak,95400,Saratok,1.6629,111.2076
+Sarawak,95407,Saratok,1.7362,111.3528
+Sarawak,95409,Saratok,1.7362,111.3528
+Sarawak,95500,Debak,1.5775,111.2168
+Sarawak,95600,Spaoh,1.6533,111.5983
+Sarawak,95700,Betong,1.5038,111.4675
+Sarawak,95707,Betong,1.4196,111.5959
+Sarawak,95709,Betong,1.4196,111.5959
+Sarawak,95800,Engkilili,1.2817,110.9074
+Sarawak,95900,Lubok Antu,1.2548,111.6771
+Sarawak,96000,Sibu,2.2086,111.6
+Sarawak,96007,Sibu,2.31,111.84
+Sarawak,96008,Sibu,2.31,111.84
+Sarawak,96009,Sibu,2.31,111.84
+Sarawak,96100,Sarikei,2.0455,111.5346
+Sarawak,96107,Sarikei,2.1178,111.5212
+Sarawak,96108,Sarikei,2.1178,111.5212
+Sarawak,96109,Sarikei,2.1178,111.5212
+Sarawak,96150,Belawai,1.9636,111.0947
+Sarawak,96200,Daro,2.5321,111.5253
+Sarawak,96250,Matu,2.6413,111.4437
+Sarawak,96300,Dalat,2.2853,111.9027
+Sarawak,96307,Dalat,2.4277,112.1548
+Sarawak,96309,Dalat,2.4277,112.1548
+Sarawak,96350,Balingian,2.2248,111.6044
+Sarawak,96400,Mukah,2.4118,112.0435
+Sarawak,96410,Mukah,2.8576,111.8762
+Sarawak,96500,Bintangor,2.2244,111.5791
+Sarawak,96507,Bintangor,2.2138,111.5514
+Sarawak,96508,Bintangor,2.2138,111.5514
+Sarawak,96509,Bintangor,2.2138,111.5514
+Sarawak,96600,Julau,1.783,111.9699
+Sarawak,96700,Kanowit,1.9416,112.0866
+Sarawak,96707,Kanowit,1.9064,112.2371
+Sarawak,96709,Kanowit,1.9064,112.2371
+Sarawak,96800,Kapit,1.9499,113.1692
+Sarawak,96807,Kapit,1.9098,113.6356
+Sarawak,96809,Kapit,1.9098,113.6356
+Sarawak,96850,Song,1.735,112.533
+Sarawak,96900,Belaga,2.4811,113.6292
+Sarawak,97000,Bintulu,2.6262,112.1367
+Sarawak,97007,Bintulu,3.1906,113.0901
+Sarawak,97008,Bintulu,3.1906,113.0901
+Sarawak,97009,Bintulu,3.1906,113.0901
+Sarawak,97010,Bintulu,3.1906,113.0901
+Sarawak,97011,Bintulu,3.1906,113.0901
+Sarawak,97012,Bintulu,3.1906,113.0901
+Sarawak,97013,Bintulu,3.1906,113.0901
+Sarawak,97014,Bintulu,3.1906,113.0901
+Sarawak,97015,Bintulu,3.1906,113.0901
+Sarawak,97100,Sebauh,2.7811,112.6702
+Sarawak,97200,Tatau,2.5733,112.6906
+Sarawak,97300,Bintulu,3.264,113.0846
+Sarawak,98000,Miri,4.2678,113.9692
+Sarawak,98007,Miri,4.3331,113.9949
+Sarawak,98008,Miri,4.3331,113.9949
+Sarawak,98009,Miri,4.3331,113.9949
+Sarawak,98050,Baram,2.0768,112.3837
+Sarawak,98057,Baram,1.3526,111.5176
+Sarawak,98058,Baram,1.3526,111.5176
+Sarawak,98059,Baram,1.3526,111.5176
+Sarawak,98100,Lutong,4.4803,114.0108
+Sarawak,98107,Lutong,4.4803,114.0108
+Sarawak,98109,Lutong,4.4803,114.0108
+Sarawak,98150,Bekenu,4.0678,113.8315
+Sarawak,98157,Bekenu,4.0677,113.831
+Sarawak,98159,Bekenu,4.0677,113.831
+Sarawak,98200,Niah,3.195,112.6848
+Sarawak,98300,Long Lama,3.9671,114.2984
+Sarawak,98700,Limbang,4.1371,114.6005
+Sarawak,98707,Limbang,4.3466,115.1836
+Sarawak,98708,Limbang,4.3466,115.1836
+Sarawak,98709,Limbang,4.3466,115.1836
+Sarawak,98750,Nanga Medamit,2.5574,113.0012
+Sarawak,98800,Sundar,3.9777,114.0651
+Sarawak,98850,Lawas,3.9117,114.0909
+Sarawak,98857,Lawas,4.8211,115.4274
+Sarawak,98859,Lawas,4.8211,115.4274
